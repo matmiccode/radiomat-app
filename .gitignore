@@ -1,0 +1,14 @@
+.dotnet/
+.dotnet-install.ps1
+bin/
+obj/
+.vs/
+.nuget/
+NuGet/
+*.user
+audio-check.txt
+.env
+.env.*
+*.local.txt
+.build/
+dist/

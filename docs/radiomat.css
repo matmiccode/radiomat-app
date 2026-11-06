@@ -1,0 +1,24 @@
+/* radioMAT uses the shared MATCODE frame and the radio's blue accent. */
+:root { --accent: #7da2f2; --accent-strong: #3057af; }
+@media (prefers-color-scheme: light) { :root { --accent: #3057af; } }
+html[data-theme="light"] { --accent: #3057af; }
+.hero { display: grid; grid-template-columns: 1.1fr 1fr; gap: 52px; align-items: center; padding: 44px 0 64px; }
+.hero h1 { font-size: clamp(2.3rem, 4.6vw, 3.5rem); line-height: 1.1; margin: 0 0 22px; }
+.lead { max-width: 32rem; font-size: 1.16rem; color: var(--muted); }
+.drobne { font-size: .9rem; color: var(--muted); margin-top: 16px; }
+.pokaz { border: 1px solid var(--line); border-radius: 18px; padding: 26px; background: var(--surface); }
+.radio-top { display: flex; gap: 14px; align-items: center; margin-bottom: 26px; }
+.radio-top img { width: 44px; height: 44px; }
+.radio-top strong { font-size: 1.3rem; }
+.radio-top p { margin: 0; color: var(--muted); font-size: .9rem; }
+.presets { display: flex; flex-wrap: wrap; gap: 8px; }
+.preset { flex: 1; min-width: 90px; cursor: pointer; background: var(--surface-2); color: var(--text); border: 1px solid var(--line); border-radius: 10px; font: inherit; padding: 10px 6px; }
+.preset[aria-pressed="true"] { border-color: var(--accent); color: var(--accent); }
+.tuning { display: flex; gap: 4px; height: 43px; align-items: end; margin: 30px 0 16px; overflow: hidden; }
+.tuning span { flex: 1; background: var(--accent); opacity: .55; border-radius: 2px; }
+.station { font-size: clamp(1.3rem, 3vw, 1.8rem); margin-bottom: 8px; }
+.demo-note { color: var(--muted); font-size: .8rem; margin-bottom: 0; }
+.jezyk { white-space: nowrap; }
+:focus-visible { outline: 3px solid var(--accent); outline-offset: 4px; }
+@media (max-width: 860px) { .hero { grid-template-columns: 1fr; gap: 30px; padding: 26px 0 44px; } }
+@media (max-width: 480px) { .pokaz { padding: 18px; } .top { align-items: flex-start; } .top nav { flex-wrap: wrap; justify-content: flex-end; gap: 10px; } .cta { align-items: stretch; } .cta .btn { text-align: center; } }

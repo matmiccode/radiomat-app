@@ -1,0 +1,43 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <Edition Condition="'$(Edition)' == ''">Public</Edition>
+    <EditionConfigPath Condition="'$(Edition)' == 'Public'">$(MSBuildProjectDirectory)\Branding\Public\edition.json</EditionConfigPath>
+    <EditionPropsPath Condition="'$(Edition)' == 'Public'">$(MSBuildProjectDirectory)\Branding\Public\edition.props</EditionPropsPath>
+    <DefaultItemExcludes>$(DefaultItemExcludes);bin\**;obj\**;.build\**</DefaultItemExcludes>
+  </PropertyGroup>
+  <Import Project="$(EditionPropsPath)" Condition="'$(EditionPropsPath)' != '' and Exists('$(EditionPropsPath)')" />
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyName>radioMAT</AssemblyName>
+    <RootNamespace>Radiomat</RootNamespace>
+    <ApplicationIcon>Assets\radioMAT.ico</ApplicationIcon>
+    <Product>radioMAT</Product>
+    <Title>radioMAT</Title>
+    <Version>0.3.0</Version>
+    <SatelliteResourceLanguages>pl</SatelliteResourceLanguages>
+  </PropertyGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(EditionConfigPath)" LogicalName="Radiomat.Edition.json" Condition="Exists('$(EditionConfigPath)')" />
+    <EmbeddedResource Include="Data\poland.json" LogicalName="Radiomat.Data.poland.json" />
+    <Resource Include="Assets\radioMAT.ico" />
+    <PackageReference Include="NAudio" Version="2.2.1" />
+    <PackageReference Include="NSec.Cryptography" Version="25.4.0" />
+  </ItemGroup>
+  <ItemGroup Condition="'$(Edition)' == 'Company'">
+    <EmbeddedResource Remove="Branding\Public\**\*" />
+    <Compile Remove="Branding\Public\**\*" />
+    <Page Remove="Branding\Public\**\*" />
+    <Resource Remove="Branding\Public\**\*" />
+    <Content Remove="Branding\Public\**\*" />
+    <None Remove="Branding\Public\**\*" />
+  </ItemGroup>
+  <Target Name="ValidateEdition" BeforeTargets="PrepareForBuild">
+    <Error Condition="'$(Edition)' != 'Public' and '$(Edition)' != 'Company'" Text="Unknown edition. Use Public or Company." />
+    <Error Condition="!Exists('$(EditionConfigPath)') or !Exists('$(EditionPropsPath)')" Text="Missing edition configuration. Use tools/Build-Release.ps1 with an explicit edition and local configuration." />
+  </Target>
+</Project>

@@ -1,0 +1,3524 @@
+[
+  {
+    "Name": "4Music",
+    "Url": "https://s1.slotex.pl/shoutcast/7102/stream",
+    "Description": "128 kb/s",
+    "Id": "rb:a6abb430-8f82-4ce6-8f5d-77337759024b"
+  },
+  {
+    "Name": "Affi Radio",
+    "Url": "https://affiradio.pl/listen/radio-browser/stream.mp3",
+    "Description": "Wielkopolska · 192 kb/s",
+    "Id": "rb:9290283e-ceaa-46c6-a101-e0602307bef5"
+  },
+  {
+    "Name": "AH.FM: #1 for Electronic Dance Music",
+    "Url": "http://fr2.ah.fm/live",
+    "Description": "Warsaw · 192 kb/s",
+    "Id": "rb:1f996e4f-996e-424c-b401-189e61fc89a0"
+  },
+  {
+    "Name": "Akademickie Radio LUZ",
+    "Url": "https://stream.radioluz.pl:8443/luz_hifi.mp3?1744349689809",
+    "Description": "256 kb/s",
+    "Id": "rb:50bb6818-2c35-4956-a28c-25f4a0884ce7"
+  },
+  {
+    "Name": "Akademickie Radio Luz 91.6",
+    "Url": "http://stream.radioluz.pl:8000/luz_hifi.mp3",
+    "Description": "dolnośląskie · 256 kb/s",
+    "Id": "rb:8916be0e-58c6-4784-b62c-20a43e95df30"
+  },
+  {
+    "Name": "ALT!NEU",
+    "Url": "https://s1.slotex.pl:7430/",
+    "Description": "Schlesien · 128 kb/s",
+    "Id": "rb:bbb73592-a4ee-4fb8-bb95-179d2d2f39f2"
+  },
+  {
+    "Name": "Aniol Beskidów",
+    "Url": "http://media.aniolbeskidow.pl:22000/aniolbeskidow",
+    "Description": "185 kb/s",
+    "Id": "rb:ad312071-8c69-11e9-ad01-52543be04c81"
+  },
+  {
+    "Name": "Anty Radio",
+    "Url": "https://an.cdn.eurozet.pl/ant-web.mp3?t=1713710188361",
+    "Description": "128 kb/s",
+    "Id": "rb:6bf03632-07d9-4112-8119-03588ec8f556"
+  },
+  {
+    "Name": "Antyradio",
+    "Url": "https://n-4-2.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx?audio=5",
+    "Description": "128 kb/s",
+    "Id": "rb:9617d67b-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "Antyradio (Katowice)",
+    "Url": "http://an01.cdn.eurozet.pl/ant-kat.mp3",
+    "Description": "Upper Silesia · 128 kb/s",
+    "Id": "rb:e98a3c9a-b371-4d2e-bd07-4796c6325b0f"
+  },
+  {
+    "Name": "Antyradio Classic Rock",
+    "Url": "https://an01.cdn.eurozet.pl/ANTCLA.mp3?redirected=01",
+    "Description": "Poland · 128 kb/s",
+    "Id": "rb:8aafbf38-346c-479c-b80c-abd308613d16"
+  },
+  {
+    "Name": "Antyradio Covers",
+    "Url": "http://an.cdn.eurozet.pl/ANTCOV.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:1979432f-3c8c-41b2-a093-403228715160"
+  },
+  {
+    "Name": "Antyradio Greatest",
+    "Url": "https://an02.cdn.eurozet.pl/ANTGRE.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:521d8726-2ba4-44ac-a6ed-a3b643e89818"
+  },
+  {
+    "Name": "Antyradio Hard",
+    "Url": "https://an05.cdn.eurozet.pl/ANTHAR.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:b3452e7b-5954-47cf-b10d-8ba28dfe16c5"
+  },
+  {
+    "Name": "Antyradio Katowice",
+    "Url": "https://ml02.cdn.eurozet.pl/ant-kat.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:d14d5a67-1df6-468c-a937-399b922c1c2b"
+  },
+  {
+    "Name": "Antyradio Made In Poland",
+    "Url": "https://an04.cdn.eurozet.pl/ANTPOL.mp3?t=1668748669557?redirected=04",
+    "Description": "Poland · 128 kb/s",
+    "Id": "rb:0bab6889-05ad-4a31-ba44-3ed5d7c6a85d"
+  },
+  {
+    "Name": "Antyradio Makak",
+    "Url": "http://an.cdn.eurozet.pl/ANTMAK.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:70df3a90-bf52-4ac5-99b9-efc1c117faf5"
+  },
+  {
+    "Name": "Antyradio Unplugged",
+    "Url": "https://an05.cdn.eurozet.pl/ANTUNP.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:aace0bb4-e8fc-4c68-9644-ab48de32c917"
+  },
+  {
+    "Name": "Antyradio Warszawa",
+    "Url": "https://an.cdn.eurozet.pl/ant-web.mp3?t=1703697029993",
+    "Description": "128 kb/s",
+    "Id": "rb:7baf76c1-6b23-4d1d-b571-eb94b383060f"
+  },
+  {
+    "Name": "AWANGARDA.FM",
+    "Url": "https://stream.zeno.fm/mf9ewmbuaq8uv",
+    "Description": "Kazimierz Dolny · 128 kb/s",
+    "Id": "rb:98779473-6eed-4f64-b6d4-b0a8297666f7"
+  },
+  {
+    "Name": "AwiroFM",
+    "Url": "https://s4.awiro.xyz/stream",
+    "Description": "Świętokrzyskie · 96 kb/s",
+    "Id": "rb:3f4b7fd9-c35d-4c11-a9c6-841f74832be8"
+  },
+  {
+    "Name": "BayerFM",
+    "Url": "https://streaming.radio5.com.pl:8888/bayerfm",
+    "Description": "128 kb/s",
+    "Id": "rb:8de986f9-5c48-4b54-98e4-da49a4926b8d"
+  },
+  {
+    "Name": "Beat City Gdańsk",
+    "Url": "https://radio.beatcity.pl/listen/beat_city_gdansk/radio.mp3",
+    "Description": "Pomorskie · 192 kb/s",
+    "Id": "rb:6b3901ca-2182-4d5f-bbc0-0cf8f84e8e13"
+  },
+  {
+    "Name": "Beat City Kraków",
+    "Url": "https://radio.beatcity.pl/listen/beat_city_krakow/radio.mp3",
+    "Description": "Małopolskie · 192 kb/s",
+    "Id": "rb:5e65fe58-70c2-4856-be38-06245586e06e"
+  },
+  {
+    "Name": "Beat City Oleśnica",
+    "Url": "https://olesnica.beatcity.pl/listen/radio/radio.mp3",
+    "Description": "Dolnośląskie · 192 kb/s",
+    "Id": "rb:f9268d2d-16c7-4613-90bf-01e86c906834"
+  },
+  {
+    "Name": "Beat City Warszawa",
+    "Url": "https://radio.beatcity.pl/listen/beat_city_warszawa/radio.mp3",
+    "Description": "Mazowieckie · 192 kb/s",
+    "Id": "rb:85038219-3b4b-480f-b404-9cbc5f0a32cc"
+  },
+  {
+    "Name": "Beat City Wrocław",
+    "Url": "https://radio.beatcity.pl/listen/beat_city_wroclaw/radio.mp3",
+    "Description": "Dolnośląskie · 192 kb/s",
+    "Id": "rb:22e7a865-854b-4769-8a66-4f16a05e9580"
+  },
+  {
+    "Name": "BEST Radio (128Kbps)",
+    "Url": "http://stream.radiobest.eu:8000/128",
+    "Description": "128 kb/s",
+    "Id": "rb:1dedabb9-e846-4105-bd36-b41eead15020"
+  },
+  {
+    "Name": "BEST Radio (192Kbps)",
+    "Url": "http://stream.radiobest.eu:8000/192",
+    "Description": "192 kb/s",
+    "Id": "rb:ba8d1ba4-3640-4ab3-b20c-816fbe47a369"
+  },
+  {
+    "Name": "Bohema Radio",
+    "Url": "http://s3.slotex.pl:7262/stream",
+    "Description": "128 kb/s",
+    "Id": "rb:00c89cad-bdc3-4d42-93dc-c61c628d5522"
+  },
+  {
+    "Name": "Bonton Chełm",
+    "Url": "http://streaming.inten.pl:8022/bonton.mp3",
+    "Description": "Chełm · 128 kb/s",
+    "Id": "rb:583c2e60-bc39-4b6b-8fbc-944e67c22d49"
+  },
+  {
+    "Name": "Chilli Zet",
+    "Url": "https://ch.cdn.eurozet.pl/chi-net.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:da0174e1-a1b0-447d-befb-087a6c88d6d4"
+  },
+  {
+    "Name": "Chilli ZET Biega",
+    "Url": "https://ch03.cdn.eurozet.pl/CHIRUN.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:caf0a2ec-5be2-4cb5-be35-9ca2b0d2e481"
+  },
+  {
+    "Name": "Chilli ZET Christmas",
+    "Url": "https://ch03.cdn.eurozet.pl/CHISWI.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:d3baf4a9-ad84-4864-a69f-0886a986b6b2"
+  },
+  {
+    "Name": "Chilli ZET Covers",
+    "Url": "https://ch02.cdn.eurozet.pl/CHICOV.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:cd1ae2ae-ac92-4a53-a0f3-bd7abcd1cf00"
+  },
+  {
+    "Name": "Chilli ZET Deep",
+    "Url": "http://ch02.cdn.eurozet.pl/CHIDEP.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:927987be-e772-4c15-89d1-cf0617e10286"
+  },
+  {
+    "Name": "Chilli ZET Ladies",
+    "Url": "https://ch03.cdn.eurozet.pl/CHILAD.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:bbd788fc-aa54-44b9-9889-627f1f542370"
+  },
+  {
+    "Name": "Chilli ZET Salon polski",
+    "Url": "https://ch03.cdn.eurozet.pl/CHIPOL.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:7332244f-38b9-4bc5-8674-b9b66ee9326b"
+  },
+  {
+    "Name": "Chilli ZET Soul",
+    "Url": "https://zt02.cdn.eurozet.pl/CHISOU.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:fc109161-80f8-4fa5-a1c2-69433d83ecb5"
+  },
+  {
+    "Name": "Chillizet Ladies -om",
+    "Url": "https://ch01.cdn.eurozet.pl/CHILAD.mp3?t=1709721264195?redirected=01",
+    "Description": "128 kb/s",
+    "Id": "rb:5a957520-9218-491a-a68f-e52de17496b3"
+  },
+  {
+    "Name": "Chillout Radio",
+    "Url": "http://panel.nadaje.com:9004/",
+    "Description": "128 kb/s",
+    "Id": "rb:960fd7e9-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "Cmp3",
+    "Url": "http://s.radiocmp3.eu/djset256",
+    "Description": "256 kb/s",
+    "Id": "rb:b71aeb1c-0cd1-473c-a122-f06eff2abd0d"
+  },
+  {
+    "Name": "CoSTa's Ambient Radio",
+    "Url": "https://pc.costa-server.info.pl:11020/listen/costas_ambient_radio/radio.mp3",
+    "Description": "192 kb/s",
+    "Id": "rb:61b0e2e9-4b34-44d5-83b9-b7e7d57c22ad"
+  },
+  {
+    "Name": "CYBERStacja",
+    "Url": "https://sc.cyberstacja.pl:8000/radio.mp3",
+    "Description": "Dolnyśląsk · 192 kb/s",
+    "Id": "rb:8e3cd071-7175-412d-8e6d-900492ee595e"
+  },
+  {
+    "Name": "Damismania Dj Radio",
+    "Url": "http://s1.slotex.pl:7512/",
+    "Description": "96 kb/s",
+    "Id": "rb:961243df-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "DanisMania DJ Radio",
+    "Url": "https://s1.slotex.pl/shoutcast/7512/stream",
+    "Description": "96 kb/s",
+    "Id": "rb:ee41f215-1b5d-475e-886f-5db5db3a7483"
+  },
+  {
+    "Name": "Disco Party - Lata 90.",
+    "Url": "https://s3.slotex.pl:7170/stream",
+    "Description": "128 kb/s",
+    "Id": "rb:53220f48-3f02-4cf2-abfa-8aadbb497b94"
+  },
+  {
+    "Name": "Disco Radio",
+    "Url": "http://kiyi.radioca.st:8108/stream",
+    "Description": "320 kb/s",
+    "Id": "rb:c39f90ff-365e-4789-8613-e27d99099a6a"
+  },
+  {
+    "Name": "DiscoParty.pl - Club",
+    "Url": "https://s3.slotex.pl/shoutcast/7354/stream?sid=1",
+    "Description": "128 kb/s",
+    "Id": "rb:ddd98adc-3ebc-4359-9afe-59b72716e156"
+  },
+  {
+    "Name": "DiscoParty.pl - Disco Impreza",
+    "Url": "https://s3.slotex.pl/shoutcast/7046/stream?sid=1",
+    "Description": "320 kb/s",
+    "Id": "rb:737299d9-6583-4103-aacf-9576b60baa82"
+  },
+  {
+    "Name": "DiscoParty.pl - Disco Polo",
+    "Url": "https://s1.slotex.pl/shoutcast/7432/stream?sid=1",
+    "Description": "128 kb/s",
+    "Id": "rb:b7b409d6-689d-4977-ba74-8ead870e1ccd"
+  },
+  {
+    "Name": "DISCOPARTY.PL - Kanał Club",
+    "Url": "https://s3.slotex.pl/shoutcast/7354/stream",
+    "Description": "128 kb/s",
+    "Id": "rb:2feb2001-ac7b-45d6-8c71-c12079f72e0e"
+  },
+  {
+    "Name": "DiscoParty.pl - Lata 90s",
+    "Url": "https://s3.slotex.pl/shoutcast/7170/stream?sid=1",
+    "Description": "128 kb/s",
+    "Id": "rb:83c0f221-4436-44e1-9f95-6320fa9fddcb"
+  },
+  {
+    "Name": "Dubstep24h",
+    "Url": "https://stream.24dubstep.pl/listen/dubstep24h/live",
+    "Description": "320 kb/s",
+    "Id": "rb:049e6b50-4604-4fc2-9ef9-aa2c754a0ca3"
+  },
+  {
+    "Name": "DzikieRadio",
+    "Url": "https://ssl-1.radiohost.pl:11250/stream",
+    "Description": "Żywiecki · 128 kb/s",
+    "Id": "rb:f0cb108c-546b-433e-9077-00f89bc13b57"
+  },
+  {
+    "Name": "EL-Stacja HQ",
+    "Url": "http://radio.el-stacja.pl:8000/elstacja320mp3",
+    "Description": "320 kb/s",
+    "Id": "rb:33d39331-3f06-4350-90d6-9f1b2c526046"
+  },
+  {
+    "Name": "Eska - Białystok",
+    "Url": "https://waw.ic.smcdn.pl/2020-1.mp3",
+    "Description": "Bialystok · 128 kb/s",
+    "Id": "rb:f71b9db7-2f6e-4f28-a763-377cc4fa9555"
+  },
+  {
+    "Name": "ESKA - Do Pracy",
+    "Url": "https://waw.ic.smcdn.pl/6140-1.mp3",
+    "Description": "Warsaw · 128 kb/s",
+    "Id": "rb:14deca88-fa91-472e-852d-22878c8e7bde"
+  },
+  {
+    "Name": "ESKA - Gorąca 20",
+    "Url": "https://waw.ic.smcdn.pl/6130-1.mp3",
+    "Description": "Warsaw · 128 kb/s",
+    "Id": "rb:f56fc0e0-8d6e-43df-9253-bfa03cb9a067"
+  },
+  {
+    "Name": "ESKA - Impreska",
+    "Url": "https://waw.ic.smcdn.pl/6030-1.mp3",
+    "Description": "Warsaw · 128 kb/s",
+    "Id": "rb:c445c858-7028-4719-9b20-1676a54eb6ef"
+  },
+  {
+    "Name": "Eska - Rzeszów",
+    "Url": "http://ic1.smcdn.pl/2240-1.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:f434e3d1-8b34-452f-acbd-23700db83b0c"
+  },
+  {
+    "Name": "ESKA - Summer City",
+    "Url": "https://waw.ic.smcdn.pl/6120-1.mp3",
+    "Description": "Warsaw · 128 kb/s",
+    "Id": "rb:0f0c7bbc-c43d-4be3-88ee-03bec56016f7"
+  },
+  {
+    "Name": "ESKA 2",
+    "Url": "https://ic1.smcdn.pl/1530-1.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:ca4a404c-33e2-49ac-aa2e-1b9f0ecb7eed"
+  },
+  {
+    "Name": "ESKA 2 KONIN",
+    "Url": "http://ic1.smcdn.pl/1530-1.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:a2ec8459-ae47-4047-ace7-7095dd3b3da9"
+  },
+  {
+    "Name": "Eska 2 Stalowa Wola",
+    "Url": "https://waw.ic.smcdn.pl/1370-1.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:f5d9a099-9bad-4db0-ad5f-6b926c7c65a1"
+  },
+  {
+    "Name": "Eska Bydgoszcz",
+    "Url": "http://ic2.smcdn.pl/2030-1.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:b4cb99ec-d1f0-4778-aba9-86e2edc45942"
+  },
+  {
+    "Name": "ESKA DO PRACY",
+    "Url": "http://ic1.smcdn.pl/6140-1.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:3bf5641e-673b-42ec-815b-2930b47877c8"
+  },
+  {
+    "Name": "ESKA GO",
+    "Url": "http://ic1.smcdn.pl/6200-1.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:46572be6-92e7-429f-bc8f-a7466de7794d"
+  },
+  {
+    "Name": "ESKA GORĄCA 100",
+    "Url": "http://ic1.smcdn.pl/6120-1.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:592947b7-c949-4e9f-8797-1e93b2158a19"
+  },
+  {
+    "Name": "ESKA GORĄCA 20",
+    "Url": "http://ic1.smcdn.pl/6130-1.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:dab24cb9-7950-46f1-8963-8e76f98cc87a"
+  },
+  {
+    "Name": "ESKA IMPRESKA",
+    "Url": "http://ic1.smcdn.pl/6030-1.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:18a21e61-6c4f-4b28-b271-7202169238b0"
+  },
+  {
+    "Name": "Eska Katowice",
+    "Url": "http://ic2.smcdn.pl/2220-1.mp3",
+    "Description": "Slaskie · 128 kb/s",
+    "Id": "rb:68784a81-e9f9-453b-9f60-7dc9559d83c7"
+  },
+  {
+    "Name": "Eska Lublin 128",
+    "Url": "https://ic2.smcdn.pl/2130-1.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:0caaa152-3967-4ffd-8352-b439d899125e"
+  },
+  {
+    "Name": "ESKA NEWS WROCŁAW",
+    "Url": "http://ic1.smcdn.pl/6250-1.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:e8427ee9-fab5-43a5-8f80-a5346f2028f2"
+  },
+  {
+    "Name": "ESKA Ostrzeszów",
+    "Url": "https://waw.ic.smcdn.pl/2500-1.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:254a19c7-d037-441d-a1bc-5669fdf8a1ef"
+  },
+  {
+    "Name": "Eska Płock",
+    "Url": "http://ic1.smcdn.pl/2250-1.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:4e5ac5ca-ed9f-435c-be33-660edb8a8531"
+  },
+  {
+    "Name": "ESKA ROCK",
+    "Url": "https://ic2.smcdn.pl/5380-1.mp3#ESKA_ROCK",
+    "Description": "128 kb/s",
+    "Id": "rb:bf487b2b-503c-42c3-b088-9b5d679fdf29"
+  },
+  {
+    "Name": "Eska Szczecin",
+    "Url": "http://ic1.smcdn.pl/2260-1.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:e7ecf93c-413d-4d7b-9db9-12791dacda01"
+  },
+  {
+    "Name": "Eska zamość 128",
+    "Url": "https://ic2.smcdn.pl/2230-1.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:06ce2100-d0fc-4e65-936f-7d03233d72f6"
+  },
+  {
+    "Name": "Eska Łódź",
+    "Url": "http://ic1.smcdn.pl/2380-1.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:603543b3-5e5c-4fab-992c-ba5e007172f0"
+  },
+  {
+    "Name": "ESKA2 Szczecin",
+    "Url": "https://ic1.smcdn.pl/1260-1.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:e888efea-81a3-4f96-978d-a62f90f1f5d8"
+  },
+  {
+    "Name": "Fiorda.fm",
+    "Url": "http://cast1.torontocast.com:2280/;?type=http&nocache=42",
+    "Description": "Wroclaw · 320 kb/s",
+    "Id": "rb:9bf76f26-2227-4ba8-9981-1644fdaf5e84"
+  },
+  {
+    "Name": "Fitness Music",
+    "Url": "https://s3.slotex.pl:7414/stream",
+    "Description": "128 kb/s",
+    "Id": "rb:a24c43d5-2d0f-436e-90e2-99a32ba2dd4d"
+  },
+  {
+    "Name": "Folk Radio",
+    "Url": "https://streaming.g-news.pl:8030/fr1",
+    "Description": "Świętokrzyskie · 128 kb/s",
+    "Id": "rb:3258f031-ca87-4ef9-a72f-f87af968291b"
+  },
+  {
+    "Name": "FSSPX Radio",
+    "Url": "http://radio.fsspx.pl:8000/radio.mp3",
+    "Description": "Warszawa · 128 kb/s",
+    "Id": "rb:1cd920e2-5810-4071-b558-e3db95944316"
+  },
+  {
+    "Name": "FUTRZAK.FM",
+    "Url": "https://audio.futrzak.fm/futrzakfm-128",
+    "Description": "128 kb/s",
+    "Id": "rb:629e9a73-9e82-4cae-9163-c2433caceb58"
+  },
+  {
+    "Name": "FUTRZAK.FM - 320kbps",
+    "Url": "https://audio.futrzak.fm/futrzakfm-320",
+    "Description": "320 kb/s",
+    "Id": "rb:7427d744-2b56-4390-b79e-30772a1ea939"
+  },
+  {
+    "Name": "Gdynia Radio",
+    "Url": "http://51.255.8.139:8064/stream",
+    "Description": "Gdynia · 128 kb/s",
+    "Id": "rb:960f636d-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "Gra Wrocław",
+    "Url": "http://rmfstream2.interia.pl:8000/radio_gra_wroc",
+    "Description": "Wrocław · 128 kb/s",
+    "Id": "rb:90bb9e37-a3cc-4b79-ac59-a389fe2f235e"
+  },
+  {
+    "Name": "Głos Nadziei",
+    "Url": "https://ssl-1.radiohost.pl:9548/index",
+    "Description": "mazowieckie · 128 kb/s",
+    "Id": "rb:9f8d430a-9df5-44ba-a715-7da09812c207"
+  },
+  {
+    "Name": "Happy Station",
+    "Url": "https://s3.slotex.pl/shoutcast/7496/stream",
+    "Description": "128 kb/s",
+    "Id": "rb:cfebcee8-ad8e-4e93-90de-67b6ef4fafef"
+  },
+  {
+    "Name": "HardbanRecords Radio",
+    "Url": "https://radio.hardbanrecordslab.online/listen/skomrakus_radio/radio.mp3",
+    "Description": "192 kb/s",
+    "Id": "rb:8793f47d-eb51-4ea2-a39f-e738f4dabb8b"
+  },
+  {
+    "Name": "Hitradio",
+    "Url": "http://51.255.8.139:9090/stream",
+    "Description": "128 kb/s",
+    "Id": "rb:d47882bc-f58e-4fab-ac51-264169d1cebc"
+  },
+  {
+    "Name": "HitRadio 107.6 Wloclawek",
+    "Url": "http://46.170.199.85:8000/;",
+    "Description": "Kujawsko-Pomorskie · 128 kb/s",
+    "Id": "rb:00bb4ec3-cb3d-4503-999c-6c443f6615a9"
+  },
+  {
+    "Name": "Hitradio.pl",
+    "Url": "http://51.255.8.139:9090/;",
+    "Description": "128 kb/s",
+    "Id": "rb:79af5bac-6282-4c6b-84cf-da967c5c8200"
+  },
+  {
+    "Name": "HOID RADIO",
+    "Url": "https://s3.slotex.pl/shoutcast/7476/stream?sid=1",
+    "Description": "Warmia-Masuria · 128 kb/s",
+    "Id": "rb:8cad15ad-b271-4200-a174-9461a0df673e"
+  },
+  {
+    "Name": "House of Funk",
+    "Url": "https://houseoffunk.eu:8443/live",
+    "Description": "Polskie radio internetowe",
+    "Id": "rb:6c5dc2fe-f924-4341-bd43-84aabc359073"
+  },
+  {
+    "Name": "http://zt01.cdn.eurozet.pl/zet-old.mp3?redirected=01",
+    "Url": "http://zt01.cdn.eurozet.pl/zet-old.mp3?redirected=01",
+    "Description": "128 kb/s",
+    "Id": "rb:9299d914-fe60-4120-9597-397f66dc44a1"
+  },
+  {
+    "Name": "I Love Music",
+    "Url": "https://s3.slotex.pl:7150/stream",
+    "Description": "192 kb/s",
+    "Id": "rb:390ac67a-8081-418b-83fa-dab8c3f1eb93"
+  },
+  {
+    "Name": "Idź Pod Prąd FM",
+    "Url": "http://idzpodprad.out.airtime.pro:8000/idzpodprad_a",
+    "Description": "160 kb/s",
+    "Id": "rb:e0c35897-4de0-4769-8321-799c1702a074"
+  },
+  {
+    "Name": "Informatics Productions Radio",
+    "Url": "http://radio.lttstore.pl:8000/radio",
+    "Description": "lubelskie · 320 kb/s",
+    "Id": "rb:b8346e06-e7d7-402d-a501-517044250cf1"
+  },
+  {
+    "Name": "Internetowe Radio Skoczow",
+    "Url": "https://azuracast.radio.skoczow.pl/listen/radior1/radio.mp3",
+    "Description": "192 kb/s",
+    "Id": "rb:106bb275-c731-4739-bc2d-5e00f36774c3"
+  },
+  {
+    "Name": "Jazzkultura",
+    "Url": "http://stream.radio.co/s1136b59f3/listen",
+    "Description": "192 kb/s",
+    "Id": "rb:392f9bd0-61d0-42e1-ac29-2e4ce921e3f9"
+  },
+  {
+    "Name": "JEDYNKA",
+    "Url": "http://stream3.polskieradio.pl:8900/;",
+    "Description": "192 kb/s",
+    "Id": "rb:05094fb8-9fd1-491c-9f02-ca4d52a2f488"
+  },
+  {
+    "Name": "JUMP Radio",
+    "Url": "http://radioo.eu:9900/",
+    "Description": "Polskie radio internetowe",
+    "Id": "rb:e7c3fa86-0ff2-4dd9-8f3d-4e34d642c05c"
+  },
+  {
+    "Name": "Kapitał",
+    "Url": "https://radiokapitalpl.out.airtime.pro/radiokapitalpl_a",
+    "Description": "192 kb/s",
+    "Id": "rb:b7154644-7519-4c14-8891-023c23387e4f"
+  },
+  {
+    "Name": "Katolickie Radio Diecezji Plockiej",
+    "Url": "http://s1.slotex.pl:7760/",
+    "Description": "Plock · 160 kb/s",
+    "Id": "rb:960ff557-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "Katolickie Radio Rzeszow - VIA",
+    "Url": "http://62.133.128.18:8040/",
+    "Description": "Rzeszow · 192 kb/s",
+    "Id": "rb:960ff7dc-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "Katolickie Radio Via",
+    "Url": "http://stream.dar.fm/31199",
+    "Description": "Warsaw · 192 kb/s",
+    "Id": "rb:804c4b44-2d4b-4663-9d04-d9f63908c556"
+  },
+  {
+    "Name": "Katolickie Radio Zamość 101,2 FM",
+    "Url": "https://stream.rcs.revma.com/0n8y7mxcay8uv",
+    "Description": "Polskie radio internetowe",
+    "Id": "rb:c4c234b8-4c02-4b93-bed5-063a029d6f18"
+  },
+  {
+    "Name": "KChT",
+    "Url": "https://listen.radioking.com/radio/274180/stream/320404",
+    "Description": "192 kb/s",
+    "Id": "rb:0064b70d-87b1-4d05-805d-eb1f298aa285"
+  },
+  {
+    "Name": "Konin FM",
+    "Url": "http://stream2.technologicznie.net/konin.fm",
+    "Description": "Wielkopolskie · 192 kb/s",
+    "Id": "rb:60118daa-abe0-45dc-99dd-c16ba48c6abf"
+  },
+  {
+    "Name": "Lady G4A Gaming Radio",
+    "Url": "http://stream.zeno.fm/e8wz7kbpypiuv",
+    "Description": "128 kb/s",
+    "Id": "rb:0cd0ee15-d56e-4603-8626-6f645529e6ba"
+  },
+  {
+    "Name": "Lagoon FM",
+    "Url": "https://s1.slotex.pl/shoutcast/7828/stream",
+    "Description": "128 kb/s",
+    "Id": "rb:460ed056-8874-46cc-843b-50c11bbafc2a"
+  },
+  {
+    "Name": "Leliwa",
+    "Url": "https://streaming.g-news.pl/radio/8050/leliwa",
+    "Description": "128 kb/s",
+    "Id": "rb:bfe7368c-6b90-494c-ae7c-7a7d40663e92"
+  },
+  {
+    "Name": "Lem FM",
+    "Url": "http://n08.radiojar.com/2fa0gbhr9bhvv",
+    "Description": "Podkarpacie",
+    "Id": "rb:f1784c57-aec6-48f6-ba6d-d24f5c7520e1"
+  },
+  {
+    "Name": "Lem.fm",
+    "Url": "https://stream.radiojar.com/2fa0gbhr9bhvv",
+    "Description": "Polskie radio internetowe",
+    "Id": "rb:3d3e723c-dee2-4f8f-a01c-933cf499df0b"
+  },
+  {
+    "Name": "Life 4 Club",
+    "Url": "https://life4club.online/listen/live/l4c.mp3",
+    "Description": "Polskie radio internetowe",
+    "Id": "rb:54a7ac26-e836-42cd-95a5-750509c70406"
+  },
+  {
+    "Name": "ListekFM",
+    "Url": "http://stream10.hosterion.pl:8004/stream",
+    "Description": "192 kb/s",
+    "Id": "rb:4f1e155b-85a4-4237-b41b-a3165ccc1007"
+  },
+  {
+    "Name": "Margaretka FM",
+    "Url": "http://s3.slotex.pl:7260/stream",
+    "Description": "64 kb/s",
+    "Id": "rb:13d209ae-cf8c-476b-963a-ca6bd67c9398"
+  },
+  {
+    "Name": "MasteRMXMusic",
+    "Url": "https://s3.slotex.pl:7008/stream/1/",
+    "Description": "Pomorskie · 128 kb/s",
+    "Id": "rb:d27fbad5-595c-43b2-9e1a-32a8ae18d962"
+  },
+  {
+    "Name": "MaxPlay FM",
+    "Url": "https://s1.slotex.pl/shoutcast/8880/stream",
+    "Description": "96 kb/s",
+    "Id": "rb:2f450db4-a8b7-4778-bfa9-26704b620662"
+  },
+  {
+    "Name": "Mazurske Radijo",
+    "Url": "https://stream-172.zeno.fm/h6af85mhunhvv",
+    "Description": "warmińsko-mazurskie · 128 kb/s",
+    "Id": "rb:d64da490-c8b0-4978-8ec9-5567eacc5819"
+  },
+  {
+    "Name": "Mega Radio",
+    "Url": "https://stream.rcs.revma.com/q18ty3qhwzzuv",
+    "Description": "Polskie radio internetowe",
+    "Id": "rb:a7a9392d-f6a1-418a-aff3-58381fe9525f"
+  },
+  {
+    "Name": "Melo Radio Śląsk (Katowice)",
+    "Url": "https://ml01.cdn.eurozet.pl/mel-ktw.mp3",
+    "Description": "Slaskie · 128 kb/s",
+    "Id": "rb:c18100eb-63b6-45d9-803a-b1624f741fb4"
+  },
+  {
+    "Name": "MELORADIO FAST SONGS",
+    "Url": "http://ml02.cdn.eurozet.pl/MELFST.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:b9815140-68bd-4a68-819d-d87d7321b763"
+  },
+  {
+    "Name": "Meloradio FM",
+    "Url": "https://r.dcs.redcdn.pl/sc/o2/Eurozet/live/meloradio.livx?audio=5",
+    "Description": "Warsaw · 128 kb/s",
+    "Id": "rb:a43fe2f5-0c29-436d-bb19-1512f86fcd2b"
+  },
+  {
+    "Name": "MELORADIO HOT DANCE",
+    "Url": "http://ml02.cdn.eurozet.pl/MELHDN.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:39e9719f-f3b4-4a08-b2c8-29881e3b8314"
+  },
+  {
+    "Name": "Meloradio Kielce",
+    "Url": "https://ml03.cdn.eurozet.pl/mel-klc.mp3",
+    "Description": "Świętokrzyskie · 128 kb/s",
+    "Id": "rb:ac22a8f1-2ed8-4034-a4a2-9c14b9eee9c3"
+  },
+  {
+    "Name": "Meloradio Opole",
+    "Url": "https://ml02.cdn.eurozet.pl/mel-opl.mp3",
+    "Description": "Opolskie · 128 kb/s",
+    "Id": "rb:7b5c2766-4e7a-4163-bc62-4d90feaed2de"
+  },
+  {
+    "Name": "MELORADIO POZNAŃ",
+    "Url": "http://ml03.cdn.eurozet.pl/mel-poz.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:e0abc144-24e6-40b4-9164-01d49b199a7b"
+  },
+  {
+    "Name": "Meloradio Tarnobrzeg",
+    "Url": "https://ml.cdn.eurozet.pl/mel-trb.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:bdaaaaa8-5a6f-4bd2-b9de-4be7eba4876b"
+  },
+  {
+    "Name": "Meloradio Wrocław",
+    "Url": "https://ml02.cdn.eurozet.pl/mel-wro.mp3",
+    "Description": "dolnośląskie · 128 kb/s",
+    "Id": "rb:4dbb2cc1-3d4a-48e6-9519-7067b87df160"
+  },
+  {
+    "Name": "Metal Live Radio",
+    "Url": "http://51.255.8.139:8738/stream",
+    "Description": "Zachodniopomorskie · 320 kb/s",
+    "Id": "rb:c3e57425-e517-4d08-90ea-08565adb8add"
+  },
+  {
+    "Name": "Minimal Mix Radio",
+    "Url": "http://orion.shoutca.st:8750/",
+    "Description": "320 kb/s",
+    "Id": "rb:96166d6e-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "Mirage Space",
+    "Url": "http://s0.radiohost.pl:9563/",
+    "Description": "320 kb/s",
+    "Id": "rb:fb3f6660-6ee1-47d6-829a-a07e12aea9ec"
+  },
+  {
+    "Name": "mittendrin.pl",
+    "Url": "https://s1.slotex.pl:7592/;type=mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:bd53f858-a760-485b-b276-0d86b196f589"
+  },
+  {
+    "Name": "ModFM",
+    "Url": "http://radio.modules.pl:8500/;",
+    "Description": "128 kb/s",
+    "Id": "rb:961447b9-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "modules.pl",
+    "Url": "http://radio.modules.pl:8500/;stream/1",
+    "Description": "128 kb/s",
+    "Id": "rb:821caf3f-b798-4984-b6f3-655570e64f64"
+  },
+  {
+    "Name": "MojePolskieRadio - Czworka",
+    "Url": "http://stream3.polskieradio.pl:8906/",
+    "Description": "192 kb/s",
+    "Id": "rb:964aa4b8-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "MojePolskieRadio - Jedynka",
+    "Url": "http://stream3.polskieradio.pl:8900/",
+    "Description": "192 kb/s",
+    "Id": "rb:964aa236-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "MojePolskieRadio - PolskieRadio24",
+    "Url": "http://stream3.polskieradio.pl:8080/",
+    "Description": "192 kb/s",
+    "Id": "rb:964aa7ce-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "MojePolskieRadio - Radio Dzieciom",
+    "Url": "http://stream3.polskieradio.pl:8916/",
+    "Description": "192 kb/s",
+    "Id": "rb:964aa70b-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "MojePolskieRadio - РАДИО ПОЛЬША",
+    "Url": "http://stream3.polskieradio.pl:8914/",
+    "Description": "128 kb/s",
+    "Id": "rb:964aa576-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "MS RADIO 90",
+    "Url": "http://audio.msradio.pl:8000/radio.mp3",
+    "Description": "192 kb/s",
+    "Id": "rb:428d3b95-9136-4926-99bd-d6a94f14dade"
+  },
+  {
+    "Name": "MS RADIO 90's POLSKA",
+    "Url": "https://audio.msradio.pl/listen/msradio/radio.mp3",
+    "Description": "192 kb/s",
+    "Id": "rb:ce73a715-c1ef-421c-8a22-dcbb5828f30f"
+  },
+  {
+    "Name": "Ms Radio 90's Selected Polska",
+    "Url": "http://audio.msradio.pl/listen/msradio/radio.mp3",
+    "Description": "192 kb/s",
+    "Id": "rb:d15e24aa-25f3-4009-8a34-40319a99d681"
+  },
+  {
+    "Name": "Music Family",
+    "Url": "https://s3.slotex.pl:7216/stream",
+    "Description": "128 kb/s",
+    "Id": "rb:1b644d44-a31c-41f1-82ef-366b303a9260"
+  },
+  {
+    "Name": "Muzyczna Oaza",
+    "Url": "https://s3.slotex.pl:7100/stream",
+    "Description": "128 kb/s",
+    "Id": "rb:888d66b8-a2be-4393-b78e-d9e2adc7d298"
+  },
+  {
+    "Name": "Muzyczne Radio",
+    "Url": "http://stream3.technologicznie.net/muzyczne_radio_192.mp3",
+    "Description": "192 · 192 kb/s",
+    "Id": "rb:45047af4-56c2-47fe-b322-af6f6b67c111"
+  },
+  {
+    "Name": "Muzyczny Beat FM",
+    "Url": "http://s3.slotex.pl:7034/stream",
+    "Description": "128 kb/s",
+    "Id": "rb:c277f1fa-12c5-421f-8a61-f17a2341c533"
+  },
+  {
+    "Name": "Muzyka Dwoch Serc",
+    "Url": "http://s3.slotex.pl:7272/",
+    "Description": "128 kb/s",
+    "Id": "rb:16135930-a084-4941-b6d9-69ca19063eb1"
+  },
+  {
+    "Name": "Nasz Hajmat",
+    "Url": "https://s3.slotex.pl:7126/stream",
+    "Description": "128 kb/s",
+    "Id": "rb:cc386af2-e9ea-4594-a8d0-f72b3dff0d8c"
+  },
+  {
+    "Name": "Nasze Nowe Radio",
+    "Url": "https://s3.slotex.pl:7388/stream",
+    "Description": "256 kb/s",
+    "Id": "rb:023558a9-0058-4e83-8a8e-0b4fc9198252"
+  },
+  {
+    "Name": "Nasze RAdio",
+    "Url": "https://s1.slotex.pl:7146/stream",
+    "Description": "96 kb/s",
+    "Id": "rb:1bdc2de6-7f01-48be-b92b-672d1dd415ac"
+  },
+  {
+    "Name": "neural radio",
+    "Url": "http://cast.magicstreams.gr:9111/stream",
+    "Description": "128 kb/s",
+    "Id": "rb:d8919ddf-efad-4cde-9ce9-6c61bcb9abcc"
+  },
+  {
+    "Name": "Off Radio Krakow",
+    "Url": "http://stream4.nadaje.com:13332/offradiokrakow",
+    "Description": "Krakow",
+    "Id": "rb:96124183-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "Openfm",
+    "Url": "https://getradio.reconv.pl/openfm?s=summerpolo",
+    "Description": "Polskie radio internetowe",
+    "Id": "rb:635b6d9d-3cde-41de-843e-84a0951b24f1"
+  },
+  {
+    "Name": "Pallotti.fm",
+    "Url": "http://s1.slotex.pl:7074/stream",
+    "Description": "Małopolska · 128 kb/s",
+    "Id": "rb:2ebf910a-37e6-11ea-8dd7-52543be04c81"
+  },
+  {
+    "Name": "Pallotyńskie Radio Ewangelizacyjne Pallotti.FM",
+    "Url": "http://s1.slotex.pl:7074/stream/",
+    "Description": "128 kb/s",
+    "Id": "rb:65ae0eb9-b8a0-4141-9ee3-be82c36e7b79"
+  },
+  {
+    "Name": "park",
+    "Url": "http://sluchaj1.radiopark.biz.pl:8048/",
+    "Description": "128 kb/s",
+    "Id": "rb:7deba7f1-b706-4437-b981-479c59ae1ce8"
+  },
+  {
+    "Name": "Park FM",
+    "Url": "https://sluchaj2.radiopark.biz.pl:8443/stream",
+    "Description": "128 kb/s",
+    "Id": "rb:78856434-499f-4a47-92a1-3656f67892c4"
+  },
+  {
+    "Name": "Pawarota",
+    "Url": "https://pawarota-radio-c82a7d2e.radiocult.fm/stream",
+    "Description": "320 kb/s",
+    "Id": "rb:e84c98aa-761a-42ec-acb5-cd20fbb8f0cb"
+  },
+  {
+    "Name": "PLANETA FM",
+    "Url": "http://pl01.cdn.eurozet.pl/pla-net.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:a737008a-b835-420b-a59a-bff30f92e7ce"
+  },
+  {
+    "Name": "PLUS",
+    "Url": "http://plus-gdansk-01.eurozet.pl:8500/",
+    "Description": "Polskie radio internetowe",
+    "Id": "rb:49fddb46-0cd0-11e9-a80b-52543be04c81"
+  },
+  {
+    "Name": "Plus Radio Legnica.FM",
+    "Url": "https://player.legnica.fm/listen/radio_plus_legnica/radio256.mp3",
+    "Description": "Dolnyśląsk · 192 kb/s",
+    "Id": "rb:0e88a676-995a-4373-80aa-354069e2136f"
+  },
+  {
+    "Name": "Polka Jammer Station",
+    "Url": "http://199.58.161.66/",
+    "Description": "Gdynia · 128 kb/s",
+    "Id": "rb:96113c8d-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "PolNexus Radio",
+    "Url": "https://polnexus.pl/listen.mp3",
+    "Description": "320 kb/s",
+    "Id": "rb:380c7c1f-ad28-4920-9c86-2753731625e1"
+  },
+  {
+    "Name": "Polski FM",
+    "Url": "https://usa8.fastcast4u.com/proxy/live?mp=/1",
+    "Description": "128 kb/s",
+    "Id": "rb:52f7cd3b-3a75-4a87-852d-5b4aacf84ef6"
+  },
+  {
+    "Name": "Polskie Radio - Czwórka",
+    "Url": "http://stream3.polskieradio.pl:8906/;stream",
+    "Description": "192 kb/s",
+    "Id": "rb:bd89329f-4e16-11e8-a4d1-52543be04c81"
+  },
+  {
+    "Name": "Polskie Radio 24",
+    "Url": "http://stream3.polskieradio.pl:8080/;.mp3",
+    "Description": "192 kb/s",
+    "Id": "rb:961a56e9-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "Polskie Radio Dla Zagranicy",
+    "Url": "http://stream3.polskieradio.pl:8908/",
+    "Description": "Warszawa · 128 kb/s",
+    "Id": "rb:9610e3de-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "Polskie Radio Jedynka",
+    "Url": "http://mp3.polskieradio.pl:8900/;.mp3",
+    "Description": "192 kb/s",
+    "Id": "rb:964558ba-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "Polskie Radio Katowice",
+    "Url": "http://stream4.nadaje.com:9212/radiokatowice",
+    "Description": "Katowice · 128 kb/s",
+    "Id": "rb:961b32f7-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "Polskie Radio Kierowców",
+    "Url": "http://stream3.polskieradio.pl:8918/;",
+    "Description": "192 kb/s",
+    "Id": "rb:0a13c62c-5560-47de-8a64-a33870ca3798"
+  },
+  {
+    "Name": "Polskie Radio Poznań",
+    "Url": "http://stream4.nadaje.com:8578/poznan",
+    "Description": "Poznan · 96 kb/s",
+    "Id": "rb:691b86e8-39cc-11e9-9b4e-52543be04c81"
+  },
+  {
+    "Name": "Polskie Radio Program 1",
+    "Url": "http://mp3.polskieradio.pl:8900/",
+    "Description": "Warszawa · 192 kb/s",
+    "Id": "rb:96117fec-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "Polskie Radio RDC - Radio Dla Ciebie",
+    "Url": "http://stream2.nadaje.com:11140/rdc",
+    "Description": "Warszawa · 256 kb/s",
+    "Id": "rb:960f9400-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "PR TRÓJKA",
+    "Url": "http://mp3.polskieradio.pl:8904/;.mp3",
+    "Description": "192 kb/s",
+    "Id": "rb:c2ec15c4-e6ca-45b8-bba6-e09bd8917047"
+  },
+  {
+    "Name": "Pro-Radio",
+    "Url": "http://radiointernetowe.net:7802/",
+    "Description": "192 kb/s",
+    "Id": "rb:96247cb9-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "Program Pierwszy Polskiego Radia",
+    "Url": "http://mp3.polskieradio.pl:8900/;",
+    "Description": "192 kb/s",
+    "Id": "rb:f61bd018-4dd3-4f18-8227-154576c8e535"
+  },
+  {
+    "Name": "Przystań",
+    "Url": "https://s3.slotex.pl:7372/stream/1/",
+    "Description": "Mazowsze · 128 kb/s",
+    "Id": "rb:34a0706f-e439-49a1-9b0e-3f1a0947bf1d"
+  },
+  {
+    "Name": "Punk Radio Underground",
+    "Url": "https://s1.slotex.pl/shoutcast/7604/stream?sid=1;",
+    "Description": "320 kb/s",
+    "Id": "rb:85479a6a-29c3-446b-9885-7416deacbcd1"
+  },
+  {
+    "Name": "Punkowe Radio Underground",
+    "Url": "http://s1.slotex.pl:7604/",
+    "Description": "320 kb/s",
+    "Id": "rb:1e3580d7-ce9a-425e-874a-e528e68734cc"
+  },
+  {
+    "Name": "radio",
+    "Url": "https://c16.radioboss.fm:18014/stream",
+    "Description": "128 kb/s",
+    "Id": "rb:204876d4-98d1-4919-95f0-c90a6e343ffe"
+  },
+  {
+    "Name": "Radio 1.7",
+    "Url": "https://emisja.radio17.pl/stream",
+    "Description": "128 kb/s",
+    "Id": "rb:5a2b6e23-35ca-4cb8-989f-9e67ab922ae6"
+  },
+  {
+    "Name": "RADIO 100",
+    "Url": "https://s3.slotex.pl:7278/stream/",
+    "Description": "Wielkopolskie · 192 kb/s",
+    "Id": "rb:22ffc3f2-915d-4fe5-8041-4ef92b68b7ce"
+  },
+  {
+    "Name": "Radio 357",
+    "Url": "https://stream.radio357.pl/",
+    "Description": "Polskie radio internetowe",
+    "Id": "rb:4ef724fd-3151-49d5-93ef-9be908f059bd"
+  },
+  {
+    "Name": "Radio 40plus Forty Plus",
+    "Url": "https://s1.slotex.pl/shoutcast/7178/stream",
+    "Description": "320 kb/s",
+    "Id": "rb:620a43eb-9c11-447e-b68c-33bb74018af0"
+  },
+  {
+    "Name": "Radio 5",
+    "Url": "https://streaming.radio5.com.pl:8888/radio5suwalki",
+    "Description": "256 kb/s",
+    "Id": "rb:065971ca-2b0e-4982-9b6e-416b7b262e7e"
+  },
+  {
+    "Name": "Radio 7",
+    "Url": "http://stream.radio7.pl:443/radio7.mp3",
+    "Description": "192 kb/s",
+    "Id": "rb:383945c6-6ca0-4da6-8d1e-c231bc7809f7"
+  },
+  {
+    "Name": "radio 7 mlawa",
+    "Url": "http://137.74.5.240:443/;",
+    "Description": "192 kb/s",
+    "Id": "rb:5974a09e-e810-49b8-94d8-d9510883eae1"
+  },
+  {
+    "Name": "Radio 7 Poland",
+    "Url": "https://stream.radio7.pl/;",
+    "Description": "192 kb/s",
+    "Id": "rb:9822a0c8-4ffa-45e8-bd6a-41f9f0253638"
+  },
+  {
+    "Name": "Radio Afera",
+    "Url": "http://radio.afera.com.pl/afera128.mp3",
+    "Description": "Poznan · 128 kb/s",
+    "Id": "rb:9610ce7a-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "Radio Afera 98,6 MHz",
+    "Url": "https://radio.afera.com.pl/afera128.mp3?no_cache=0.982752767360271",
+    "Description": "128 kb/s",
+    "Id": "rb:24457926-b71b-4323-8145-d3cc722f4ad1"
+  },
+  {
+    "Name": "Radio AKADERA",
+    "Url": "http://stream4.nadaje.com:11846/;",
+    "Description": "128 kb/s",
+    "Id": "rb:d848ad94-ada2-4f96-b129-b137a3f49757"
+  },
+  {
+    "Name": "Radio Akord",
+    "Url": "http://s1.slotex.pl:7122/",
+    "Description": "64 kb/s",
+    "Id": "rb:96119d53-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "Radio Aktywne",
+    "Url": "https://listen.radioaktywne.pl/ramp3",
+    "Description": "256 kb/s",
+    "Id": "rb:8a33b187-c233-4415-b1aa-f09696fc5290"
+  },
+  {
+    "Name": "Radio Alex",
+    "Url": "http://proxima.shoutca.st:9045/stream",
+    "Description": "Zakopane · 128 kb/s",
+    "Id": "rb:fbb94dc5-f833-11e9-bbf2-52543be04c81"
+  },
+  {
+    "Name": "Radio Andrychow",
+    "Url": "https://s1.slotex.pl:7424/stream/1/?sid=1",
+    "Description": "128 kb/s",
+    "Id": "rb:d9fbdd77-edb1-4a7a-94d3-4f18c2f0205e"
+  },
+  {
+    "Name": "Radio Anime24",
+    "Url": "http://91.232.4.33:7028/;",
+    "Description": "320 kb/s",
+    "Id": "rb:96115763-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "Radio Arkadia",
+    "Url": "https://s1.slotex.pl/shoutcast/7238/stream",
+    "Description": "320 kb/s",
+    "Id": "rb:6812ad73-c5bf-4a0d-98b5-e255c09c029f"
+  },
+  {
+    "Name": "Radio Armageddon",
+    "Url": "https://ssl-1.radiohost.pl:11608/",
+    "Description": "Poland · 128 kb/s",
+    "Id": "rb:f232f486-8c1d-48ec-a49a-d8eeb676bb2a"
+  },
+  {
+    "Name": "Radio Asymetria",
+    "Url": "https://evcast.mediacp.eu:1290/",
+    "Description": "mazowieckie · 256 kb/s",
+    "Id": "rb:9a313267-a689-4b81-8f80-7fe5cffa210e"
+  },
+  {
+    "Name": "Radio Bahary",
+    "Url": "https://s1.slotex.pl/shoutcast/7838/stream",
+    "Description": "128 kb/s",
+    "Id": "rb:3ada7edf-c603-4c7b-8d1e-a888738563fd"
+  },
+  {
+    "Name": "Radio Baobab",
+    "Url": "http://stream.radiobaobab.pl:8000/radiobaobab.mp3",
+    "Description": "Warszawa · 128 kb/s",
+    "Id": "rb:960fdc9a-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "Radio Bezpieczna Podroz",
+    "Url": "https://ssl-1.radiohost.pl:9162/stream",
+    "Description": "256 kb/s",
+    "Id": "rb:16cd55c4-4a35-430d-8bcf-953011be93d6"
+  },
+  {
+    "Name": "RADIO BEZPIECZNA PODRÓŻ",
+    "Url": "https://ssl-1.radiohost.pl:9344/live",
+    "Description": "256 kb/s",
+    "Id": "rb:d5fce776-a8a4-43d3-bcf0-4cff2c7ee183"
+  },
+  {
+    "Name": "Radio Biedrzychowice",
+    "Url": "http://195.164.158.230:9070/stream",
+    "Description": "Dolnyśląsk · 128 kb/s",
+    "Id": "rb:c692ce46-4dfe-4d7b-867c-453fcfdb1281"
+  },
+  {
+    "Name": "Radio Bielsko",
+    "Url": "https://stream.rcs.revma.com/062uq3z3kwzuv",
+    "Description": "Polskie radio internetowe",
+    "Id": "rb:e7b08b46-1855-49ec-84f8-c4bcb0d6bd95"
+  },
+  {
+    "Name": "Radio Borowiaczek",
+    "Url": "http://s3.slotex.pl:7228/stream",
+    "Description": "64 kb/s",
+    "Id": "rb:fe9d6103-8014-42da-a778-3a856ad239f2"
+  },
+  {
+    "Name": "Radio Brylant",
+    "Url": "https://s1.slotex.pl:7212/stream",
+    "Description": "64 kb/s",
+    "Id": "rb:30a0fa12-7694-4ed6-a1eb-5729288738b2"
+  },
+  {
+    "Name": "Radio Bunt",
+    "Url": "https://cast6.asurahosting.com/proxy/radiobun/status-json.xsl",
+    "Description": "160 kb/s",
+    "Id": "rb:78fe0ef2-54e8-4276-be83-3d0a80b97e61"
+  },
+  {
+    "Name": "Radio Centrum",
+    "Url": "http://shot4.inten.pl:8888/rcfm.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:80b7bbc8-0d95-479f-a2cf-1b9f8fae2261"
+  },
+  {
+    "Name": "Radio Centrum Lublin",
+    "Url": "https://stream12.hosterion.pl/stream/akademickieradiocentrum",
+    "Description": "Lublin · 192 kb/s",
+    "Id": "rb:e32ec32a-6315-11e9-a622-52543be04c81"
+  },
+  {
+    "Name": "Radio Centrum Rzeszow",
+    "Url": "http://62.93.41.27:8000/;stream/1",
+    "Description": "Rzeszow · 192 kb/s",
+    "Id": "rb:9617feef-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "Radio Chopin",
+    "Url": "http://stream3.polskieradio.pl:8910/",
+    "Description": "192 kb/s",
+    "Id": "rb:964a72fd-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "Radio Chrystusa Króla",
+    "Url": "http://radiochrystusakrola.pl:8080/;stream.mp3",
+    "Description": "Łódź · 128 kb/s",
+    "Id": "rb:046f0108-44f4-4def-874e-73c6d628bb63"
+  },
+  {
+    "Name": "Radio Chrześcijanin",
+    "Url": "https://stream20.hosterion.pl:8588/mountpoint",
+    "Description": "128 kb/s",
+    "Id": "rb:71faa50a-6cac-44f3-9fe8-f6c789f01523"
+  },
+  {
+    "Name": "RADIO CLUB DJ",
+    "Url": "http://4stream.pl:18272/stream",
+    "Description": "Poland · 320 kb/s",
+    "Id": "rb:f0ca8aff-861f-497c-a1d1-4a82bb4471ac"
+  },
+  {
+    "Name": "Radio Danielka",
+    "Url": "http://s3.slotex.pl:7088/",
+    "Description": "128 kb/s",
+    "Id": "rb:83db7e3d-9d06-47a3-8c43-7d7591869df5"
+  },
+  {
+    "Name": "Radio Disco Party - Disco Impreza",
+    "Url": "https://s3.slotex.pl/shoutcast/7046/stream",
+    "Description": "320 kb/s",
+    "Id": "rb:c79b6a33-4b8d-4dad-8ad0-a4139e4ebf21"
+  },
+  {
+    "Name": "Radio Disco Party - Disco Polo",
+    "Url": "https://s1.slotex.pl/shoutcast/7432/stream",
+    "Description": "128 kb/s",
+    "Id": "rb:e8c27cc3-e6e8-40b4-aca1-5e293a548c63"
+  },
+  {
+    "Name": "Radio Disco-Dance",
+    "Url": "https://radiodd.cloud/radio/8000/radio.mp3",
+    "Description": "Gdansk · 320 kb/s",
+    "Id": "rb:76205995-be2b-431f-86dc-5ccd808978a3"
+  },
+  {
+    "Name": "Radio Duch",
+    "Url": "https://s1.slotex.pl/shoutcast/7174/stream",
+    "Description": "128 kb/s",
+    "Id": "rb:13e30dc3-691a-4792-b66e-4397421298be"
+  },
+  {
+    "Name": "Radio Dwójka (MP3)",
+    "Url": "http://mp3.polskieradio.pl:8902/",
+    "Description": "192 kb/s",
+    "Id": "rb:96224577-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "Radio Dzwiek",
+    "Url": "http://s3.slotex.pl:7408/;",
+    "Description": "128 kb/s",
+    "Id": "rb:1797a00f-b6c4-4150-9cac-316432e0d018"
+  },
+  {
+    "Name": "Radio Elbląg",
+    "Url": "https://rostr1.radioolsztyn.pl:8543/ELBLAG",
+    "Description": "128 kb/s",
+    "Id": "rb:100e26ae-6c48-4dd2-8ad6-3c80888e2119"
+  },
+  {
+    "Name": "Radio Elka Głogów (Zagłębie Miedziowe)",
+    "Url": "https://rs102-krk.rmfstream.pl/audioxi_elka_glogow",
+    "Description": "Dolnośląskie · 128 kb/s",
+    "Id": "rb:06df56f4-515b-44e7-ab17-c9554c07faba"
+  },
+  {
+    "Name": "Radio Elka Leszno",
+    "Url": "http://live.elka.pl:8000/elka.fm",
+    "Description": "Leszno · 128 kb/s",
+    "Id": "rb:d5acd7ea-f837-11e9-bbf2-52543be04c81"
+  },
+  {
+    "Name": "Radio Elka Miedziowe",
+    "Url": "http://live.elka.pl:8000/miedziowe.pl",
+    "Description": "128 kb/s",
+    "Id": "rb:cf6f339c-f510-4dea-8cf6-63149ed2240a"
+  },
+  {
+    "Name": "Radio eM",
+    "Url": "http://194.181.177.253:8000/",
+    "Description": "Katowice · 128 kb/s",
+    "Id": "rb:9610dec4-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "Radio eM Kielce",
+    "Url": "http://emkielce.pl:8000/;",
+    "Description": "128 kb/s",
+    "Id": "rb:0d8dc7b1-3c0a-44c1-bb7a-2bb40a29e606"
+  },
+  {
+    "Name": "Radio Eska Kraków",
+    "Url": "http://ic1.smcdn.pl/2070-1.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:257d0088-3b8d-4b9c-9092-4507bef630fd"
+  },
+  {
+    "Name": "Radio Eska Kraśnik",
+    "Url": "https://ic1.smcdn.pl/2360-1.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:45c79c45-8cbb-4cee-bd59-ad70d50cd260"
+  },
+  {
+    "Name": "Radio Eska Opole",
+    "Url": "https://waw.ic.smcdn.pl/2120-1.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:64657548-7703-4a08-8476-70c98f253cfb"
+  },
+  {
+    "Name": "Radio Eska Przemyśl",
+    "Url": "https://waw.ic.smcdn.pl/2320-1.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:57c99c42-ef07-4628-abaf-dbe3aeb845fd"
+  },
+  {
+    "Name": "Radio Eska Starachowice",
+    "Url": "https://ic1.smcdn.pl/2400-1.mp3",
+    "Description": "Świętokrzyskie · 128 kb/s",
+    "Id": "rb:46f37fe4-fecc-4724-a5a6-60bdea12f809"
+  },
+  {
+    "Name": "Radio Eska Tarnów",
+    "Url": "https://ic1.smcdn.pl/2210-1.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:a7d7df36-8416-4abb-baec-6620a3043e10"
+  },
+  {
+    "Name": "Radio Eska Warszawa",
+    "Url": "https://waw.ic.smcdn.pl/2380-1.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:3d5ae3c4-6d05-415b-a0eb-d21ca56be0ea"
+  },
+  {
+    "Name": "Radio Eska Wrocław",
+    "Url": "http://ic2.smcdn.pl/2180-1.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:c89ebb7f-577f-4017-abb6-0c83d11b6aa5"
+  },
+  {
+    "Name": "Radio Express",
+    "Url": "https://stream.rcs.revma.com/yx6cub73kwzuv",
+    "Description": "Polskie radio internetowe",
+    "Id": "rb:f097922c-f9e3-4aed-81a8-7837358710e5"
+  },
+  {
+    "Name": "Radio FAMA",
+    "Url": "http://stream2.nadaje.com:8076/",
+    "Description": "Kielce · 128 kb/s",
+    "Id": "rb:96113935-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "Radio Fama Slupsk",
+    "Url": "http://stream3.nadaje.com:9024/;",
+    "Description": "pomorskie · 128 kb/s",
+    "Id": "rb:958073b3-a8e4-4371-a3a0-d23985d05d6f"
+  },
+  {
+    "Name": "Radio Fama Zyrardow",
+    "Url": "http://stream4.nadaje.com:13770/",
+    "Description": "Warsaw · 128 kb/s",
+    "Id": "rb:a03609e7-db7b-46ee-90b6-3ef410f6e0b5"
+  },
+  {
+    "Name": "Radio Fara",
+    "Url": "http://62.133.128.22:8000/",
+    "Description": "Przemysl · 320 kb/s",
+    "Id": "rb:960ffa4b-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "Radio Fiorda",
+    "Url": "https://radiofiorda.pl/stream/",
+    "Description": "320 kb/s",
+    "Id": "rb:c4c44e59-ecae-419b-b804-192673124784"
+  },
+  {
+    "Name": "Radio Forever",
+    "Url": "http://s1.slotex.pl:7134/",
+    "Description": "96 kb/s",
+    "Id": "rb:9645b5c6-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "Radio Forte",
+    "Url": "http://s1.slotex.pl:7856/",
+    "Description": "128 kb/s",
+    "Id": "rb:964e88ca-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "Radio Fraszka",
+    "Url": "https://s3.slotex.pl:7132/;",
+    "Description": "128 kb/s",
+    "Id": "rb:c892aba2-2c34-4913-baa1-22acec459e47"
+  },
+  {
+    "Name": "Radio Freee",
+    "Url": "http://212.244.54.195:8000/radiofreee",
+    "Description": "Lublin · 128 kb/s",
+    "Id": "rb:f836f2bc-9552-403a-9e80-aab28c06bd52"
+  },
+  {
+    "Name": "Radio FTB Club",
+    "Url": "http://play.radioftb.net:8000/stream",
+    "Description": "320 kb/s",
+    "Id": "rb:b003e8d2-25e8-11e8-91bf-52543be04c81"
+  },
+  {
+    "Name": "Radio FTM",
+    "Url": "https://s1.slotex.pl:7792/stream",
+    "Description": "Lesser Poland · 128 kb/s",
+    "Id": "rb:cbe88f44-e3ce-4bcd-81ad-9a6bfabf526b"
+  },
+  {
+    "Name": "Radio Gdansk",
+    "Url": "http://stream.task.gda.pl:8000/rg1",
+    "Description": "Gdansk · 128 kb/s",
+    "Id": "rb:960f4b0b-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "Radio Gdańsk",
+    "Url": "https://stream.task.gda.pl:8443/rg1",
+    "Description": "128 kb/s",
+    "Id": "rb:e5abcbf5-0c7c-435c-a908-a9765f87624b"
+  },
+  {
+    "Name": "Radio Gdańsk REGIONY DAB2",
+    "Url": "https://stream.task.gda.pl:8443/rg4",
+    "Description": "pomorskie · 128 kb/s",
+    "Id": "rb:37830480-1017-4e66-a64b-efa95d89ae5d"
+  },
+  {
+    "Name": "Radio Glos",
+    "Url": "http://87.204.92.180:8000/",
+    "Description": "Pelplin · 320 kb/s",
+    "Id": "rb:9610de08-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "Radio Gniezno",
+    "Url": "http://stream3.nadaje.com:8012/;",
+    "Description": "Gniezno · 128 kb/s",
+    "Id": "rb:00b73e70-f83b-11e9-bbf2-52543be04c81"
+  },
+  {
+    "Name": "Radio Gold Live",
+    "Url": "http://s1.slotex.pl:7062/;",
+    "Description": "128 kb/s",
+    "Id": "rb:96498259-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "Radio Gra Torun",
+    "Url": "http://31.192.216.7:8000/radio_gra",
+    "Description": "Torun · 128 kb/s",
+    "Id": "rb:129c77fd-822d-11e9-aa30-52543be04c81"
+  },
+  {
+    "Name": "Radio Gra Wroclaw",
+    "Url": "http://rmfstream2.interia.pl:8000/radio_gra",
+    "Description": "128 kb/s",
+    "Id": "rb:a5aa763a-a2fc-4e0e-8962-ea10282df8a3"
+  },
+  {
+    "Name": "Radio Gryfice AI",
+    "Url": "https://panel.radio.gryfice.net/listen/radio-gryfice/radio.mp3",
+    "Description": "Zac · 192 kb/s",
+    "Id": "rb:a2f6c0d3-3f6b-484b-8a93-e6d642253e20"
+  },
+  {
+    "Name": "Radio Guardian",
+    "Url": "https://s1.slotex.pl/shoutcast/7508/stream",
+    "Description": "128 kb/s",
+    "Id": "rb:4a2bc232-52e5-493c-bb46-2f27c334b7b0"
+  },
+  {
+    "Name": "Radio Hit",
+    "Url": "http://46.170.199.85:8000/",
+    "Description": "128 kb/s",
+    "Id": "rb:e6372fb6-d871-443a-a387-61b751a0a269"
+  },
+  {
+    "Name": "Radio Horyzont",
+    "Url": "http://s1.slotex.pl:7328/",
+    "Description": "128 kb/s",
+    "Id": "rb:5fccc710-1784-4dba-9f15-05e9cd9de559"
+  },
+  {
+    "Name": "Radio I",
+    "Url": "https://ice2.radioi.pl:8443/stream",
+    "Description": "Białystok · 320 kb/s",
+    "Id": "rb:2e511c33-db12-434a-b6c0-25f73f3a0298"
+  },
+  {
+    "Name": "Radio Imperium",
+    "Url": "https://stream.radioimperium.pl:8443/stream",
+    "Description": "192 kb/s",
+    "Id": "rb:c956de79-b2ce-4b4c-abe1-414db17fca98"
+  },
+  {
+    "Name": "Radio Imperium Gliwice",
+    "Url": "http://91.193.208.8:8000/",
+    "Description": "Slaskie · 192 kb/s",
+    "Id": "rb:90f91a37-5126-4114-af6b-bd5ff7c9be6e"
+  },
+  {
+    "Name": "Radio Index",
+    "Url": "https://stream.wzielonej.pl/radio/8000/2",
+    "Description": "256 kb/s",
+    "Id": "rb:c89c716d-6d3e-47d0-943f-40186c897f4e"
+  },
+  {
+    "Name": "Radio Ingrid",
+    "Url": "https://radio-ingrid.radiocult.fm/stream",
+    "Description": "192 kb/s",
+    "Id": "rb:0c3b4103-241c-4b2d-8389-da246b40261b"
+  },
+  {
+    "Name": "Radio Italo4you",
+    "Url": "https://ssl-1.radiohost.pl:8018/stream",
+    "Description": "256 kb/s",
+    "Id": "rb:c1694afe-e4fb-4a91-83da-5cec323bd082"
+  },
+  {
+    "Name": "Radio Italo4you 256kbps",
+    "Url": "http://s0.radiohost.pl:8018/stream",
+    "Description": "256 kb/s",
+    "Id": "rb:d7bb11de-0f8d-4832-93e7-3061b1adfd33"
+  },
+  {
+    "Name": "Radio Jard",
+    "Url": "http://online.jard.pl:8744/jard1",
+    "Description": "256 kb/s",
+    "Id": "rb:7117001a-8e20-40eb-9d51-e297f92e6d52"
+  },
+  {
+    "Name": "Radio Jasna Gora",
+    "Url": "http://online.radiojasnagora.pl:8000/rjg",
+    "Description": "Czestochowa · 320 kb/s",
+    "Id": "rb:960d9954-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "Radio Jutrzenka",
+    "Url": "http://sluchaj.radiojutrzenka.waw.pl:12854/test",
+    "Description": "Warszawa · 128 kb/s",
+    "Id": "rb:9610db71-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "Radio Kampus",
+    "Url": "http://193.0.98.66:8005/",
+    "Description": "Warszawa · 128 kb/s",
+    "Id": "rb:9610cc41-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "Radio Kampus 97,1 FM",
+    "Url": "https://stream.radiokampus.fm/kampus",
+    "Description": "Warsaw · 128 kb/s",
+    "Id": "rb:4021b06a-5787-44ca-9621-4dc63bf371c7"
+  },
+  {
+    "Name": "Radio Karolinka",
+    "Url": "http://91.232.4.33:8358/stream",
+    "Description": "128 kb/s",
+    "Id": "rb:96114bae-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "Radio Kaszëbë",
+    "Url": "http://x.radiokaszebe.pl:9000/",
+    "Description": "pomorskie · 128 kb/s",
+    "Id": "rb:b2bbf4b1-c3b9-4fb7-bcdf-163411774b26"
+  },
+  {
+    "Name": "Radio KECh Nowogard",
+    "Url": "https://s3.slotex.pl/shoutcast/7016/stream",
+    "Description": "192 kb/s",
+    "Id": "rb:6727599b-8995-4da8-88d1-ba00c5e2c8a9"
+  },
+  {
+    "Name": "Radio Kolobrzeg",
+    "Url": "http://graj.radiokolobrzeg.pl:8000/",
+    "Description": "Kolobrzeg · 192 kb/s",
+    "Id": "rb:96100667-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "Radio Krakow",
+    "Url": "http://stream3.nadaje.com:9116/radiokrakow",
+    "Description": "Krakow",
+    "Id": "rb:960ff089-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "Radio Kraków - Sport",
+    "Url": "http://stream3.nadaje.com:9128/radiokrakow",
+    "Description": "Krakow",
+    "Id": "rb:961b3559-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "Radio Krupski Młyn",
+    "Url": "http://s3.slotex.pl:7346/stream",
+    "Description": "128 kb/s",
+    "Id": "rb:604c8b1d-ef44-401b-8f78-08540710e89f"
+  },
+  {
+    "Name": "Radio Kujawy",
+    "Url": "http://radio.kujawy.info:9940/",
+    "Description": "Kujawsko-Pomorskie · 128 kb/s",
+    "Id": "rb:94a33aba-7b3e-11e9-aa30-52543be04c81"
+  },
+  {
+    "Name": "Radio Kuropatwa",
+    "Url": "http://stream.radiojar.com/ypspphhxfm8uv",
+    "Description": "Kujawsko-pomorskie",
+    "Id": "rb:2411a9a2-d7c4-48b5-8b29-9ef8720219be"
+  },
+  {
+    "Name": "Radio Kącik Rodzinny",
+    "Url": "https://s3.slotex.pl:7374/stream",
+    "Description": "128 kb/s",
+    "Id": "rb:2f24b9ed-cc6a-492b-b31a-7f4479547d8f"
+  },
+  {
+    "Name": "Radio LagoonFm",
+    "Url": "http://s1.slotex.pl:7828/",
+    "Description": "128 kb/s",
+    "Id": "rb:9611a7b7-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "Radio Leliwa",
+    "Url": "http://streaming.g-news.pl:8050/leliwa",
+    "Description": "Podkarpacie · 128 kb/s",
+    "Id": "rb:3de80364-ab6a-4085-a16a-748ab278e3d3"
+  },
+  {
+    "Name": "Radio Lemko.pl",
+    "Url": "http://stream3.nadaje.com:8060/radio",
+    "Description": "192 kb/s",
+    "Id": "rb:59c4407c-b284-4dac-90c3-6d0672d6cf03"
+  },
+  {
+    "Name": "Radio Light Motiv",
+    "Url": "http://s3.slotex.pl:7226/stream",
+    "Description": "64 kb/s",
+    "Id": "rb:378e136e-2ae3-48c9-b88c-de979d67fa96"
+  },
+  {
+    "Name": "Radio Lublin",
+    "Url": "https://streaming.radio.lublin.pl:8843/128k",
+    "Description": "128 kb/s",
+    "Id": "rb:7c396e00-acce-4b86-bd88-a2e38689ce7b"
+  },
+  {
+    "Name": "Radio Macabrismix",
+    "Url": "https://panel.macabrismix.com.pl/listen/macabris_mix_radio_station_1-2c6_ghz/autodj.mp3",
+    "Description": "192 kb/s",
+    "Id": "rb:e49f5776-8aea-4db8-ba6e-4b12b262d4ab"
+  },
+  {
+    "Name": "Radio Magic Dance",
+    "Url": "http://s1.slotex.pl:7686/stream",
+    "Description": "96 kb/s",
+    "Id": "rb:4cc5dc70-c956-409e-a69d-c6898c018392"
+  },
+  {
+    "Name": "Radio MagMa",
+    "Url": "https://s3.slotex.pl:7180/stream",
+    "Description": "128 kb/s",
+    "Id": "rb:e6c72061-14b6-4d9e-b8b3-5d67a9b46d1a"
+  },
+  {
+    "Name": "Radio Malbork",
+    "Url": "http://stream3.nadaje.com:9022/",
+    "Description": "Malbork · 128 kb/s",
+    "Id": "rb:960fb82c-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "Radio Max Hit Polska",
+    "Url": "http://s3.slotex.pl:7370/stream",
+    "Description": "320 kb/s",
+    "Id": "rb:3dab6241-f970-4764-8f4b-4150bc688941"
+  },
+  {
+    "Name": "Radio Mbox",
+    "Url": "https://s1.slotex.pl/shoutcast/7462/stream",
+    "Description": "320 kb/s",
+    "Id": "rb:2c0a1676-ca18-445f-9d17-fe74dcc0d268"
+  },
+  {
+    "Name": "Radio Mbox - Club",
+    "Url": "https://s3.slotex.pl:7204/stream",
+    "Description": "320 kb/s",
+    "Id": "rb:093c7bab-234e-4327-a566-2895550170ac"
+  },
+  {
+    "Name": "Radio Mbox - Disco Polo",
+    "Url": "http://s3.slotex.pl:7222/stream",
+    "Description": "320 kb/s",
+    "Id": "rb:cdebc810-3394-497f-aedf-4567448c9572"
+  },
+  {
+    "Name": "Radio Mbox - Gold Hits",
+    "Url": "http://s3.slotex.pl:7276/stream",
+    "Description": "320 kb/s",
+    "Id": "rb:303adf54-ed4c-4369-a0e2-3e173473e220"
+  },
+  {
+    "Name": "Radio Mbox - Polska Muzyka",
+    "Url": "https://s3.slotex.pl:7072/stream",
+    "Description": "320 kb/s",
+    "Id": "rb:ec552f4b-f74e-42b1-ae0a-295e4bad7d13"
+  },
+  {
+    "Name": "Radio Melody Express",
+    "Url": "https://s1.slotex.pl/shoutcast/7588/stream",
+    "Description": "128 kb/s",
+    "Id": "rb:40c79cae-7e5f-4b03-86e6-e9f41658672b"
+  },
+  {
+    "Name": "Radio Mirage - Euro Dance",
+    "Url": "http://s0.radiohost.pl:9569/;",
+    "Description": "320 kb/s",
+    "Id": "rb:2474b5ce-4888-11e9-80ab-52543be04c81"
+  },
+  {
+    "Name": "Radio Mirage - Italo Dance",
+    "Url": "https://ssl-1.radiohost.pl:9569/stream",
+    "Description": "320 kb/s",
+    "Id": "rb:866491e3-f607-4e8a-915f-fb1d3b682cd8"
+  },
+  {
+    "Name": "Radio Mirage - ItaloDance Channel",
+    "Url": "http://91.232.4.33:9569/Stream1",
+    "Description": "320 kb/s",
+    "Id": "rb:5d3bb64b-dcf5-413f-a7ac-e81378235358"
+  },
+  {
+    "Name": "Radio Mirage - Prywatka",
+    "Url": "https://ssl-1.radiohost.pl:7214/stream?ver=661798",
+    "Description": "256 kb/s",
+    "Id": "rb:95dc0cfd-1331-420e-a049-361c15d7a553"
+  },
+  {
+    "Name": "Radio Mirage - Prywatka Channel",
+    "Url": "http://91.232.4.33:7214/Stream1",
+    "Description": "256 kb/s",
+    "Id": "rb:33aea839-44c8-47d2-8189-494b355967dd"
+  },
+  {
+    "Name": "Radio Mirage - Space",
+    "Url": "https://ssl-1.radiohost.pl:9563/stream?ver=987766",
+    "Description": "320 kb/s",
+    "Id": "rb:d758c050-d1ff-4663-bfca-61e38413668d"
+  },
+  {
+    "Name": "Radio Mirage Prywatka",
+    "Url": "http://91.232.4.33:7214/",
+    "Description": "256 kb/s",
+    "Id": "rb:5c4be640-a1b7-4ce0-bab4-a1b27722980f"
+  },
+  {
+    "Name": "Radio Miłosierdzie",
+    "Url": "https://eu1.fastcast4u.com/proxy/milosierdzie?mp=/1",
+    "Description": "128 kb/s",
+    "Id": "rb:339ff258-29c8-4b34-9cd7-b51eb2a2b3e7"
+  },
+  {
+    "Name": "Radio Moni Raj",
+    "Url": "https://s1.slotex.pl/shoutcast/7646/stream",
+    "Description": "64 kb/s",
+    "Id": "rb:99f7e177-cdae-4f81-a21d-83e6e4372e86"
+  },
+  {
+    "Name": "Radio Mrągowo",
+    "Url": "https://stream.radiomragowo.pl/listen/radio_mragowo/radio.mp3?t=1773333890924",
+    "Description": "warmińsko-mazurskie · 192 kb/s",
+    "Id": "rb:9333ac4c-ec2d-40ae-b37c-96adb062beb8"
+  },
+  {
+    "Name": "Radio Muzyczny Zakątek",
+    "Url": "http://s3.slotex.pl:7336/stream",
+    "Description": "128 kb/s",
+    "Id": "rb:e235edb4-0352-44b1-b168-e38bcd123b3f"
+  },
+  {
+    "Name": "Radio Muzyka Dwoch Serc",
+    "Url": "http://s3.slotex.pl:7272/stream",
+    "Description": "128 kb/s",
+    "Id": "rb:048c835a-301b-4789-9b54-1bb13f5fd698"
+  },
+  {
+    "Name": "Radio Na Stoku",
+    "Url": "https://sluchaj.link:5443/nastoku",
+    "Description": "Białystok · 160 kb/s",
+    "Id": "rb:ff6c8c82-ea4d-4065-92a3-c80b288547dc"
+  },
+  {
+    "Name": "Radio Na Tak",
+    "Url": "https://c30.radioboss.fm:8615/stream",
+    "Description": "Zachodniopomorskie · 192 kb/s",
+    "Id": "rb:eca1236f-6e6d-443e-bec5-ad9e2935a501"
+  },
+  {
+    "Name": "Radio Nestolatki",
+    "Url": "https://s1.slotex.pl/shoutcast/7306/stream",
+    "Description": "96 kb/s",
+    "Id": "rb:4d8b7cc2-baf9-49af-b824-fc8cf5afd713"
+  },
+  {
+    "Name": "Radio Nowej Generacji",
+    "Url": "https://s1.slotex.pl/shoutcast/7488/stream",
+    "Description": "128 kb/s",
+    "Id": "rb:a4ac04cf-0466-40d6-9db7-00613bbe593c"
+  },
+  {
+    "Name": "Radio Nowy Świat (128kbit no https)",
+    "Url": "http://stream.rcs.revma.com/ypqt40u0x1zuv",
+    "Description": "Polskie radio internetowe",
+    "Id": "rb:8f0d0632-a79f-47d1-8933-a5e3d743d6c3"
+  },
+  {
+    "Name": "Radio Nowy Świat 256k",
+    "Url": "https://go-audio.toya.net.pl/63214",
+    "Description": "Polskie radio internetowe",
+    "Id": "rb:90877e51-c905-431d-aad2-cf7bea939a7b"
+  },
+  {
+    "Name": "Radio Ocean Dusz",
+    "Url": "http://s1.slotex.pl:7022/",
+    "Description": "128 kb/s",
+    "Id": "rb:96318b3f-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "Radio Odzew",
+    "Url": "https://stream12.hosterion.pl/stream/odzew",
+    "Description": "320 kb/s",
+    "Id": "rb:2f075cb2-be38-4e27-8b36-6adf3d833df4"
+  },
+  {
+    "Name": "Radio OIOM",
+    "Url": "http://s3.slotex.pl:7240/stream",
+    "Description": "128 kb/s",
+    "Id": "rb:89e34a11-4d73-4a90-825a-a7b790c8701d"
+  },
+  {
+    "Name": "Radio Olsztyn",
+    "Url": "https://rostr1.radioolsztyn.pl:8443/RO",
+    "Description": "128 kb/s",
+    "Id": "rb:129586bd-4635-49f4-81ac-0bb9c30f79d4"
+  },
+  {
+    "Name": "Radio One Live 80's & 90's",
+    "Url": "https://stream.rcast.net/10214",
+    "Description": "https://stream.rcast.net/1021 · 256 kb/s",
+    "Id": "rb:2406574c-2969-4aa7-a629-0973bd1854f5"
+  },
+  {
+    "Name": "Radio Opatów",
+    "Url": "http://stream2.nadaje.com:11144/;stream",
+    "Description": "Świętokrzyskie · 128 kb/s",
+    "Id": "rb:454c714a-2229-4b95-9cab-7cca5b46ee13"
+  },
+  {
+    "Name": "Radio Opole 2",
+    "Url": "http://193.47.151.4:8045/1",
+    "Description": "Opole · 128 kb/s",
+    "Id": "rb:15008a98-9ad0-11e9-a787-52543be04c81"
+  },
+  {
+    "Name": "Radio Orbit",
+    "Url": "https://s1.slotex.pl/shoutcast/7390/stream",
+    "Description": "128 kb/s",
+    "Id": "rb:47bbd18b-b931-4dd6-adee-d63d16a58dbd"
+  },
+  {
+    "Name": "Radio Orthodoxia",
+    "Url": "https://stream.orthodoxia.pl/stream192.mp3",
+    "Description": "Białystok · 192 kb/s",
+    "Id": "rb:a89d55e4-0551-4123-80d4-55dab38c736a"
+  },
+  {
+    "Name": "Radio Osjaków",
+    "Url": "https://stream20.hosterion.pl:7095/stream",
+    "Description": "Polska · 320 kb/s",
+    "Id": "rb:f07c2f19-b7a0-4c0a-ad0a-0b7d58feab94"
+  },
+  {
+    "Name": "Radio Ostrowiec 95.2 FM",
+    "Url": "http://s1.slotex.pl:7050/stream/1/;?type=http",
+    "Description": "128 kb/s",
+    "Id": "rb:962c1f25-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "Radio Palotti FM",
+    "Url": "https://s1.slotex.pl:7074/stream",
+    "Description": "Masovia · 128 kb/s",
+    "Id": "rb:aff3187b-ff5d-4892-89d1-25a590f8b4e3"
+  },
+  {
+    "Name": "Radio Parada 96.00 fm",
+    "Url": "http://stream4.nadaje.com:15274/live",
+    "Description": "Kielce · 128 kb/s",
+    "Id": "rb:518d37e6-78d0-4862-96ea-c68edc3eba31"
+  },
+  {
+    "Name": "Radio Paranormalium",
+    "Url": "https://azuracast.paranormalium.pl/listen/radio_paranormalium/1",
+    "Description": "128 kb/s",
+    "Id": "rb:cf6da8f3-f482-4d72-928d-79e47d9b6074"
+  },
+  {
+    "Name": "Radio Park FM",
+    "Url": "http://sluchaj.radiopark.com.pl:8048/",
+    "Description": "Kedzierzyn Kozle · 128 kb/s",
+    "Id": "rb:960fff6f-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "Radio Party - Kanał Główny",
+    "Url": "https://s2.radioparty.pl:8015/stream?nocache=4171",
+    "Description": "Polskie radio internetowe",
+    "Id": "rb:68c4dc06-824c-4a00-9f76-a13e181c6f2d"
+  },
+  {
+    "Name": "Radio Pasja",
+    "Url": "http://91.232.4.33:8049/",
+    "Description": "64 kb/s",
+    "Id": "rb:961867f1-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "Radio Pasja - Chillout",
+    "Url": "http://91.232.4.33:8108/",
+    "Description": "64 kb/s",
+    "Id": "rb:964e6afd-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "Radio Pasja - Chillout 128kb/s",
+    "Url": "http://91.232.4.33:8108/stream2",
+    "Description": "128 kb/s",
+    "Id": "rb:ff448574-53f2-11e8-a4d1-52543be04c81"
+  },
+  {
+    "Name": "Radio Pasja - Dance",
+    "Url": "http://91.232.4.33:9466/",
+    "Description": "64 kb/s",
+    "Id": "rb:964e719b-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "Radio Pasja - Dance 128kb/s",
+    "Url": "http://91.232.4.33:9466/stream2",
+    "Description": "128 kb/s",
+    "Id": "rb:b08d1dda-53f3-11e8-a4d1-52543be04c81"
+  },
+  {
+    "Name": "Radio Pasja - Klubowa",
+    "Url": "http://91.232.4.33:9460/",
+    "Description": "64 kb/s",
+    "Id": "rb:964e6906-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "Radio Pasja - Klubowa 128kb/s",
+    "Url": "http://91.232.4.33:9460/stream2",
+    "Description": "128 kb/s",
+    "Id": "rb:949241ec-53f3-11e8-a4d1-52543be04c81"
+  },
+  {
+    "Name": "Radio Pasja - Pop",
+    "Url": "http://91.232.4.33:8084/",
+    "Description": "64 kb/s",
+    "Id": "rb:964e6c97-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "Radio Pasja - Pop 128kb/s",
+    "Url": "http://91.232.4.33:8084/stream2",
+    "Description": "128 kb/s",
+    "Id": "rb:504b80d0-53f3-11e8-a4d1-52543be04c81"
+  },
+  {
+    "Name": "Radio Pasja - Relaks",
+    "Url": "http://91.232.4.33:8102/",
+    "Description": "64 kb/s",
+    "Id": "rb:964e6fc8-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "Radio Pasja - Relaks 128kb/s",
+    "Url": "http://91.232.4.33:8102/stream2",
+    "Description": "128 kb/s",
+    "Id": "rb:7756f6bc-53f3-11e8-a4d1-52543be04c81"
+  },
+  {
+    "Name": "Radio Pasja 128kb/s",
+    "Url": "http://91.232.4.33:8049/stream2",
+    "Description": "128 kb/s",
+    "Id": "rb:d5745e59-53f2-11e8-a4d1-52543be04c81"
+  },
+  {
+    "Name": "Radio Paweł",
+    "Url": "https://s3.slotex.pl/shoutcast/7024/stream",
+    "Description": "128 kb/s",
+    "Id": "rb:6d108262-87b5-408f-a51d-d4ae88d03103"
+  },
+  {
+    "Name": "Radio Pielgrzym - pieśni po polsku",
+    "Url": "http://shoutcast.com.pl:9444/",
+    "Description": "128 kb/s",
+    "Id": "rb:565b18e9-2d42-420c-b7e4-b382d801ece8"
+  },
+  {
+    "Name": "Radio Pielgrzym English",
+    "Url": "http://shoutcast.com.pl:9448/",
+    "Description": "128 kb/s",
+    "Id": "rb:960fbb85-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "Radio Pielgrzym Kazania",
+    "Url": "http://radiointernetowe.net:9450/",
+    "Description": "128 kb/s",
+    "Id": "rb:9611b956-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "Radio PiK",
+    "Url": "http://stream.radiopik.pl:9004/",
+    "Description": "Bydgoszcz · 128 kb/s",
+    "Id": "rb:960f2e51-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "Radio Plus",
+    "Url": "https://pl02.cdn.eurozet.pl/plu-waw.mp3?redirected=02",
+    "Description": "128 kb/s",
+    "Id": "rb:d6a5c066-62c8-4f88-bd72-2b9b03330f2a"
+  },
+  {
+    "Name": "Radio Plus 106.1 Kraków",
+    "Url": "https://waw.ic.smcdn.pl/4070-1.mp3",
+    "Description": "Małopolska · 128 kb/s",
+    "Id": "rb:2a3873b3-6e5c-4d5d-8846-3650ed8868ce"
+  },
+  {
+    "Name": "Radio Plus Bydgoszcz",
+    "Url": "https://pl03.cdn.eurozet.pl/plu-bdg.mp3?redirected=03",
+    "Description": "Kujawsko-Pomorskie · 128 kb/s",
+    "Id": "rb:0d15544f-97a0-4933-93d1-f58a8460c59c"
+  },
+  {
+    "Name": "Radio Plus Gdansk",
+    "Url": "https://pl05.cdn.eurozet.pl/plu-gdn.mp3",
+    "Description": "pomorskie",
+    "Id": "rb:d754dc87-bc3b-49ed-953b-431bd77e26e4"
+  },
+  {
+    "Name": "Radio Plus Krakow",
+    "Url": "https://ic2.smcdn.pl/4070-1.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:b60b91e5-522f-48aa-adfd-b0963c665bbc"
+  },
+  {
+    "Name": "Radio Plus Warszawa",
+    "Url": "https://pl.cdn.eurozet.pl/plu-waw.mp3",
+    "Description": "Warszawa · 128 kb/s",
+    "Id": "rb:3488780b-8880-418c-b945-61293dd9a79f"
+  },
+  {
+    "Name": "Radio Podlasie 2",
+    "Url": "https://s3.slotex.pl:7438/stream/1/",
+    "Description": "Podlasie · 64 kb/s",
+    "Id": "rb:670140ec-f90d-4ea4-85e4-88cebcb57a20"
+  },
+  {
+    "Name": "Radio Pogoda",
+    "Url": "https://radiostream.pl/tuba140-1.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:b6be7550-8e04-42c3-8641-126c08eab71c"
+  },
+  {
+    "Name": "Radio Pogoda Gdańsk",
+    "Url": "http://radiostream.pl/tuba145-1.mp3",
+    "Description": "Poland · 128 kb/s",
+    "Id": "rb:cf54f0eb-57d1-4066-aae5-2954a0b22bbe"
+  },
+  {
+    "Name": "Radio Pogoda Poznan",
+    "Url": "http://radiostream.pl/tuba138-1.mp3",
+    "Description": "Warsaw · 128 kb/s",
+    "Id": "rb:11d100aa-4cd7-4fa8-b2cb-f8f7af2bfea7"
+  },
+  {
+    "Name": "Radio Pogoda Poznań",
+    "Url": "http://stream30.radiostream.pl/tuba138-1.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:be948551-d271-4928-bf2b-551bd119ce00"
+  },
+  {
+    "Name": "Radio Pogoda Wroclaw",
+    "Url": "https://radiostream.pl/tuba142-1.mp3",
+    "Description": "Wrocław · 128 kb/s",
+    "Id": "rb:0678ba8b-e190-4be0-ba69-578ad271c0d9"
+  },
+  {
+    "Name": "Radio Polfan",
+    "Url": "https://s3.slotex.pl:7194/",
+    "Description": "128 kb/s",
+    "Id": "rb:79e2a665-b496-43d7-8354-190aa25d90eb"
+  },
+  {
+    "Name": "Radio Praga",
+    "Url": "https://stream20.hosterion.pl:6185/stream",
+    "Description": "320 kb/s",
+    "Id": "rb:920f0b15-6b29-4c47-9f84-647c48d628ec"
+  },
+  {
+    "Name": "Radio Prestige",
+    "Url": "https://s3.slotex.pl/shoutcast/7076/stream?sid=1",
+    "Description": "Opolskie · 128 kb/s",
+    "Id": "rb:609dfd83-62ca-493d-a401-5d260145aead"
+  },
+  {
+    "Name": "Radio ProteusPL",
+    "Url": "https://radio.proteuspl.pl/stream",
+    "Description": "192 kb/s",
+    "Id": "rb:c839a643-9bf3-4759-b38b-95c331dbd441"
+  },
+  {
+    "Name": "Radio Puzzle",
+    "Url": "http://s1.slotex.pl:7572/",
+    "Description": "128 kb/s",
+    "Id": "rb:96116f8d-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "Radio Płońsk",
+    "Url": "http://stream.radioplonsk.pl:9360/",
+    "Description": "mazowieckie · 160 kb/s",
+    "Id": "rb:968bcf52-bc41-4ec4-9de9-d4b408e990f0"
+  },
+  {
+    "Name": "Radio Q 100,7FM - Lokalne radio z Kutna",
+    "Url": "http://79.188.161.82:8020/;stream.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:73d9d9c6-ce66-40b1-a8fa-a850f9c17037"
+  },
+  {
+    "Name": "Radio Radom",
+    "Url": "http://stream6.nadaje.com:15292/radioradompl",
+    "Description": "mazowieckie",
+    "Id": "rb:518a493d-8700-4598-924f-49956725b6b7"
+  },
+  {
+    "Name": "Radio RAM",
+    "Url": "http://stream4.nadaje.com:9220/ram",
+    "Description": "Wroclaw · 128 kb/s",
+    "Id": "rb:961b5ae6-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "Radio RDN Małopolska",
+    "Url": "https://stream1.dabcom.pl/rdn_mpl",
+    "Description": "Tarnów · 160 kb/s",
+    "Id": "rb:ba07e619-04a2-4c35-bdbb-bd557f470bc0"
+  },
+  {
+    "Name": "Radio Republika",
+    "Url": "https://ssl-1.radiotvrepublika.pl:12698/stream",
+    "Description": "128 kb/s",
+    "Id": "rb:f837704e-40df-4302-b546-c8401348e51c"
+  },
+  {
+    "Name": "Radio RM80",
+    "Url": "http://91.232.4.33:9011/stream",
+    "Description": "256 kb/s",
+    "Id": "rb:96117f10-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "Radio RMF",
+    "Url": "http://195.150.20.7/rmf_fm",
+    "Description": "128 kb/s",
+    "Id": "rb:52e358f3-0f90-4028-8fb6-70a789ef0b08"
+  },
+  {
+    "Name": "Radio RMF Classic",
+    "Url": "https://rs101-krk-cyfronet.rmfstream.pl/rmf_classic",
+    "Description": "Krakow · 128 kb/s",
+    "Id": "rb:6b8c0729-1684-4538-b523-6b4fde74d63c"
+  },
+  {
+    "Name": "Radio RMF FM",
+    "Url": "https://rs201-krk.rmfstream.pl/rmf_fm",
+    "Description": "128 kb/s",
+    "Id": "rb:97b1aec1-dad3-4551-8cc5-07965bbcb93f"
+  },
+  {
+    "Name": "Radio Rodzina",
+    "Url": "http://sluchaj.radiorodzina.pl/RadioRodzinaWroclawLIVE.mp3",
+    "Description": "Wroclaw · 192 kb/s",
+    "Id": "rb:960fe76e-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "Radio RSC",
+    "Url": "https://stream.rcs.revma.com/94fud6a6z72vv",
+    "Description": "Łódzkie",
+    "Id": "rb:733f1af4-09c3-4b83-84c6-faddbf42b4d1"
+  },
+  {
+    "Name": "RADIO RTO TRANCE",
+    "Url": "http://s3.slotex.pl:7056/",
+    "Description": "128 kb/s",
+    "Id": "rb:cbadad19-3a73-4376-a6e0-a470b9729937"
+  },
+  {
+    "Name": "Radio Rzeszów",
+    "Url": "https://streaming.g-news.pl:8040/rzeszow",
+    "Description": "Podkarpacie · 128 kb/s",
+    "Id": "rb:388698fd-f555-49bc-9b8e-9297aa1c9b7e"
+  },
+  {
+    "Name": "Radio Różaniec",
+    "Url": "http://radio2.rozaniec.info:5696/stream",
+    "Description": "128 kb/s",
+    "Id": "rb:d1648c3a-ec30-11e8-a471-52543be04c81"
+  },
+  {
+    "Name": "Radio Safira",
+    "Url": "https://ec1.yesstreaming.net:2340/stream",
+    "Description": "Mazowieckie · 128 kb/s",
+    "Id": "rb:e4c609e0-f7d8-4c2b-bdf3-84842f89be50"
+  },
+  {
+    "Name": "Radio SAR - Studencka Agencja Radiowa",
+    "Url": "https://stream.radiosar.pl/hdmain.mp3",
+    "Description": "Pomorskie · 128 kb/s",
+    "Id": "rb:8bfd74c2-c254-4e9b-ba58-94248ddd767e"
+  },
+  {
+    "Name": "Radio Savana",
+    "Url": "https://s1.slotex.pl/shoutcast/7434/stream",
+    "Description": "64 kb/s",
+    "Id": "rb:71f92bc7-7eda-4475-ad9c-cb670d4e595b"
+  },
+  {
+    "Name": "Radio Sekret",
+    "Url": "https://s1.slotex.pl/shoutcast/7556/stream",
+    "Description": "128 kb/s",
+    "Id": "rb:f565d2c3-d829-4fcd-a604-ed6dfb2e9cd9"
+  },
+  {
+    "Name": "Radio Sfera",
+    "Url": "http://158.75.34.231:8000/sfera.mp3",
+    "Description": "Kujawsko-pomorskie · 128 kb/s",
+    "Id": "rb:e8b6ca20-03e0-4cea-892b-2b0333117957"
+  },
+  {
+    "Name": "Radio Sierpc",
+    "Url": "https://ssl-1.radiohost.pl:10700/stream",
+    "Description": "mazowieckie · 128 kb/s",
+    "Id": "rb:882d3fa4-ef24-4be0-876a-93ff08f18f67"
+  },
+  {
+    "Name": "Radio Silesia",
+    "Url": "http://s1.slotex.pl:7926/",
+    "Description": "Zabrze · 128 kb/s",
+    "Id": "rb:9610d497-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "Radio Silesia FM",
+    "Url": "https://s1.slotex.pl/shoutcast/7926/stream?sid=1",
+    "Description": "Gorny Slask · 128 kb/s",
+    "Id": "rb:27cfd2ef-f021-4b83-93f0-deb2c6d0851d"
+  },
+  {
+    "Name": "Radio Slask",
+    "Url": "https://s1.slotex.pl:7022/stream",
+    "Description": "Upper Silesia · 128 kb/s",
+    "Id": "rb:c59aabfe-e6bc-422b-b2c3-75c89972fd3c"
+  },
+  {
+    "Name": "RADIO SOLER",
+    "Url": "http://ec1.yesstreaming.net:2380/stream",
+    "Description": "Mazowieckie · 128 kb/s",
+    "Id": "rb:5ae60ffd-eacf-4f87-98aa-dd53c58fa2a1"
+  },
+  {
+    "Name": "Radio Spin",
+    "Url": "http://s01.radiospin.pl:8080/stream",
+    "Description": "Pomorskie · 320 kb/s",
+    "Id": "rb:406a4194-1526-4c3e-b751-bf3060c698bc"
+  },
+  {
+    "Name": "Radio Spioch",
+    "Url": "http://s1.slotex.pl:7138/",
+    "Description": "96 kb/s",
+    "Id": "rb:964af308-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "Radio Stacja Impreza",
+    "Url": "https://stacjaimpreza.katowice.pl:8002/stream",
+    "Description": "320 kb/s",
+    "Id": "rb:332aaa3e-af8e-49cd-9f85-b0d6838db6b5"
+  },
+  {
+    "Name": "Radio Stargard 90,3 FM - Twoje pierwsze radio",
+    "Url": "http://51.77.59.65:8100/stream.mp3",
+    "Description": "West Pomerania · 128 kb/s",
+    "Id": "rb:0faff471-63bb-4dc8-8555-415f3f0b6736"
+  },
+  {
+    "Name": "Radio Starogard",
+    "Url": "http://stream.rcs.revma.com/5wegfyrra2zuv",
+    "Description": "Polskie radio internetowe",
+    "Id": "rb:8283b399-d19f-4e5a-a381-489ef15baca0"
+  },
+  {
+    "Name": "Radio Start",
+    "Url": "https://s1.slotex.pl/shoutcast/7644/stream",
+    "Description": "128 kb/s",
+    "Id": "rb:8f29ae25-8e16-43b9-99ef-99f90b44e071"
+  },
+  {
+    "Name": "Radio Sto",
+    "Url": "http://s3.slotex.pl:7278/stream",
+    "Description": "192 kb/s",
+    "Id": "rb:b46ad43a-3a6e-4a41-96f1-f34aba114c93"
+  },
+  {
+    "Name": "Radio Strefa FM",
+    "Url": "http://play.strefa.fm:8000/strefa.mp3",
+    "Description": "Piotrków Tryb. · 128 kb/s",
+    "Id": "rb:135ee10b-8783-4d3e-b0ff-49a64dcc4ad4"
+  },
+  {
+    "Name": "Radio Strefa Muzy",
+    "Url": "https://radiosm.pl:8000/radio.mp3",
+    "Description": "Małopolskie · 256 kb/s",
+    "Id": "rb:a7a6c35d-8fc3-4b80-9a03-01775f097f58"
+  },
+  {
+    "Name": "Radio Strefa Zero",
+    "Url": "https://a7.asurahosting.com/listen/radio_strefa_0_/radio.mp3",
+    "Description": "192 kb/s",
+    "Id": "rb:8d797040-da81-4385-9510-08925d182fe5"
+  },
+  {
+    "Name": "Radio Styl FM",
+    "Url": "https://s3.slotex.pl:7196/stream",
+    "Description": "64 kb/s",
+    "Id": "rb:6a546b2c-c463-4b6f-b7bb-6aa2c38f32a2"
+  },
+  {
+    "Name": "Radio SUD",
+    "Url": "http://stream2.nadaje.com:8012/",
+    "Description": "Kepno · 128 kb/s",
+    "Id": "rb:960fc00f-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "RADIO SUPER EXPRESS",
+    "Url": "http://ic1.smcdn.pl/6260-1.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:ddec2393-8ff1-45cf-9ee8-6b065448c420"
+  },
+  {
+    "Name": "Radio Super FM 97,5 FM - Szczecin",
+    "Url": "https://stream.super.fm:8443/superfm.mp3?1703660705890",
+    "Description": "Zachodniopomorskie · 192 kb/s",
+    "Id": "rb:38c051b4-9cf7-465a-ac33-7a64e17aebd0"
+  },
+  {
+    "Name": "Radio Synteza",
+    "Url": "https://stream.radio-synteza.pl/synteza",
+    "Description": "Polskie radio internetowe",
+    "Id": "rb:523dba1f-7802-496e-a9e6-d63269e372b1"
+  },
+  {
+    "Name": "Radio Szczecin (128K MP3)",
+    "Url": "http://stream4.nadaje.com:11986/prs",
+    "Description": "Szczecin · 128 kb/s",
+    "Id": "rb:961b5bb7-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "Radio Szczecin Extra",
+    "Url": "http://stream3.nadaje.com:8200/szczecinfm",
+    "Description": "Szczecin · 128 kb/s",
+    "Id": "rb:961b5d5b-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "Radio Tango Uno",
+    "Url": "https://radiotangouno-online.pl/radio/8000/radio.mp3",
+    "Description": "mazowieckie · 128 kb/s",
+    "Id": "rb:cc498541-8a41-4f7f-a293-4adcde4051dd"
+  },
+  {
+    "Name": "Radio Tatry",
+    "Url": "http://stream.radiotatry.com:6820/radiotatry.mp3",
+    "Description": "Podhale · 192 kb/s",
+    "Id": "rb:f11c3488-0898-4d12-b5c1-2f871025fb8a"
+  },
+  {
+    "Name": "Radio TCZEW",
+    "Url": "http://195.191.180.5:8000/live",
+    "Description": "pomorskie · 192 kb/s",
+    "Id": "rb:e850d316-25c9-11e8-91bf-52543be04c81"
+  },
+  {
+    "Name": "Radio ThomCarst",
+    "Url": "http://s3.slotex.pl:7248/stream",
+    "Description": "128 kb/s",
+    "Id": "rb:904d26a6-d58c-4786-af98-50f3d6447f6e"
+  },
+  {
+    "Name": "RADIO TON PL",
+    "Url": "http://s1.slotex.pl:7310/;",
+    "Description": "128 kb/s",
+    "Id": "rb:f03301f4-34ca-41e9-890a-ba50ed68ccee"
+  },
+  {
+    "Name": "Radio TOP80",
+    "Url": "https://top80.pl:8000/listen.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:dc579323-34b1-4b37-ad43-4db9cb00e710"
+  },
+  {
+    "Name": "Radio TPI",
+    "Url": "https://s1.slotex.pl/shoutcast/7632/stream",
+    "Description": "128 kb/s",
+    "Id": "rb:d8018873-0f9f-4ee5-a9cd-95ca3a802d82"
+  },
+  {
+    "Name": "Radio UAP",
+    "Url": "https://radiouap.radiocult.fm/stream",
+    "Description": "192 kb/s",
+    "Id": "rb:cf2f31b3-adb3-4e4c-83df-103e86ab54b0"
+  },
+  {
+    "Name": "Radio Uniwersytet",
+    "Url": "https://www.radiouniwersytet.pl/ru192.mp3",
+    "Description": "192 kb/s",
+    "Id": "rb:c88d706e-0b51-4f05-bb35-f162a0f8bfa1"
+  },
+  {
+    "Name": "Radio UWM FM",
+    "Url": "http://213.184.18.156:8000/",
+    "Description": "Olsztyn · 192 kb/s",
+    "Id": "rb:960fc899-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "Radio Vanessa",
+    "Url": "http://s1.slotex.pl:7358/;;",
+    "Description": "128 kb/s",
+    "Id": "rb:e9950e27-36c1-45c8-90b4-c367c77f9e09"
+  },
+  {
+    "Name": "Radio Victoria",
+    "Url": "http://stream.v4.radiovictoria.pl:8176/;",
+    "Description": "Lowicz · 128 kb/s",
+    "Id": "rb:9610d15d-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "Radio Warmii i Mazur",
+    "Url": "https://rostr1.radioolsztyn.pl:8843/RWiM",
+    "Description": "128 kb/s",
+    "Id": "rb:ac864545-84c3-4c68-ad3b-4073790f7e88"
+  },
+  {
+    "Name": "Radio Warszawa 106.2",
+    "Url": "http://streaming01.technologicznie.net:8765/radio_warszawa.mp3",
+    "Description": "Warszawa · 256 kb/s",
+    "Id": "rb:960b82ce-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "Radio Warszawa 106.2 FM",
+    "Url": "https://stream2.technologicznie.net/radio_warszawa.mp3",
+    "Description": "mazowieckie · 160 kb/s",
+    "Id": "rb:d36486e5-9377-41a3-bc2a-96d787ce0e2c"
+  },
+  {
+    "Name": "RADIO WARTA",
+    "Url": "http://s1.slotex.pl:7446/;",
+    "Description": "128 kb/s",
+    "Id": "rb:2167760a-2993-4ca3-a7f7-d703e5ca1463"
+  },
+  {
+    "Name": "Radio Wiatraczek",
+    "Url": "https://s3.slotex.pl:7082/stream",
+    "Description": "64 kb/s",
+    "Id": "rb:566e9860-e94a-411b-b5dc-7d3b242dd5e2"
+  },
+  {
+    "Name": "Radio Wnet",
+    "Url": "http://audio.radiownet.pl:8000/stream",
+    "Description": "Polskie radio internetowe",
+    "Id": "rb:9610ee68-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "Radio Wroclaw",
+    "Url": "http://stream4.nadaje.com:9240/prw",
+    "Description": "Wroclaw · 128 kb/s",
+    "Id": "rb:960f2b60-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "Radio Wroclaw Kultura",
+    "Url": "http://stream4.nadaje.com:9230/rwkultura",
+    "Description": "Wroclaw · 128 kb/s",
+    "Id": "rb:961b5efc-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "RADIO ZAWIERCIE",
+    "Url": "https://ssl-1.radiohost.pl:9078/live",
+    "Description": "192 kb/s",
+    "Id": "rb:3e172dd2-7f16-47c6-b6df-2606cf7192be"
+  },
+  {
+    "Name": "Radio Zet",
+    "Url": "http://zet-net-01.cdn.eurozet.pl:8400/",
+    "Description": "128 kb/s",
+    "Id": "rb:59e30dda-64bf-11ea-be63-52543be04c81"
+  },
+  {
+    "Name": "Radio ZET - 2000",
+    "Url": "https://zt04.cdn.eurozet.pl/ZET200.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:464d7aaf-cd4d-412e-bc43-691190405d54"
+  },
+  {
+    "Name": "Radio ZET 128",
+    "Url": "https://n-11-21.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx?audio=5",
+    "Description": "Warszawa · 128 kb/s",
+    "Id": "rb:4d06407d-0e1c-4407-a6e8-b0c81c3d2659"
+  },
+  {
+    "Name": "Radio ZET 128 Kbps",
+    "Url": "https://zt02.cdn.eurozet.pl/zet-old.mp3",
+    "Description": "Warszawa · 128 kb/s",
+    "Id": "rb:c4bd188b-88b9-4209-b8f1-e57afbbb4a57"
+  },
+  {
+    "Name": "Radio ZET Kids",
+    "Url": "http://zetkid-01.cdn.eurozet.pl:8434/listen.pls",
+    "Description": "mazowieckie · 128 kb/s",
+    "Id": "rb:8b42599e-b6ca-4867-ac7d-23c9b22b9f38"
+  },
+  {
+    "Name": "Radio Zet Love -om",
+    "Url": "https://zt06.cdn.eurozet.pl/ZETLOV.mp3?t=1709719922445?redirected=06",
+    "Description": "128 kb/s",
+    "Id": "rb:5bd945b9-ee44-41f5-bd39-88a9d92282ce"
+  },
+  {
+    "Name": "Radio Zet na Rower -om",
+    "Url": "https://zt06.cdn.eurozet.pl/ZETNAR.mp3?t=1709720397160?redirected=06",
+    "Description": "128 kb/s",
+    "Id": "rb:9ba3e8dd-0f33-4553-89c7-97580eea12e3"
+  },
+  {
+    "Name": "Radio Zlote Przeboje Wroclaw",
+    "Url": "https://radiostream.pl/tuba8940-1.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:2fa8c3df-da3a-49a8-861e-a8a59b7d0aea"
+  },
+  {
+    "Name": "Radio Zmysłowe",
+    "Url": "https://s3.slotex.pl/shoutcast/7166/stream?sid=1",
+    "Description": "128 kb/s",
+    "Id": "rb:1e083ce5-c086-454c-8c74-ee1456fe8c1c"
+  },
+  {
+    "Name": "Radio Znin FM",
+    "Url": "http://stream4.nadaje.com:8052/",
+    "Description": "Znin · 128 kb/s",
+    "Id": "rb:9610d098-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "Radio Zodiak",
+    "Url": "https://fire.doscast.com/8084/stream",
+    "Description": "mazowieckie · 128 kb/s",
+    "Id": "rb:1dec62b3-159f-464b-b64d-69fea9fb4243"
+  },
+  {
+    "Name": "radio złote przeboje",
+    "Url": "http://radiostream.pl/tuba8928-1.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:aea643fa-255a-461d-8a77-d00ddac9036d"
+  },
+  {
+    "Name": "Radio Złote Przeboje - Bieszczady",
+    "Url": "https://radiostream.pl/tuba8946-1.mp3",
+    "Description": "bieszczady · 128 kb/s",
+    "Id": "rb:84e66784-ba35-4fd0-b0cf-ff590dfabc17"
+  },
+  {
+    "Name": "Radio Złote Przeboje Białystok",
+    "Url": "https://radiostream.pl/tuba8900-1.mp3?cache=1647512038",
+    "Description": "128 kb/s",
+    "Id": "rb:465760fe-5aa9-4117-8145-b3f128f1f034"
+  },
+  {
+    "Name": "Radio Złote Przeboje Wrocław",
+    "Url": "https://radiostream.pl/tuba9-1.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:6a2591f4-7286-4c65-a7bd-6c491b6e672b"
+  },
+  {
+    "Name": "Radio Łódź",
+    "Url": "http://217.113.224.171/RadioLodz-1.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:c3451d31-37bc-4324-b869-d3e0593a418c"
+  },
+  {
+    "Name": "Radio Żuławy",
+    "Url": "https://stream.radiojar.com/q87xmtvrrg8uv",
+    "Description": "Polskie radio internetowe",
+    "Id": "rb:e306340b-d891-4150-892c-ca917f3f60c8"
+  },
+  {
+    "Name": "Radio-Stacja",
+    "Url": "https://s3.slotex.pl/shoutcast/7684/stream?sid=1",
+    "Description": "320 kb/s",
+    "Id": "rb:92962545-fb7f-4902-bffa-18cf987e63ce"
+  },
+  {
+    "Name": "Radio40plus",
+    "Url": "http://s1.slotex.pl:7178/listen.xtl?sid=1",
+    "Description": "320 kb/s",
+    "Id": "rb:6e105b9a-0cf4-4c07-b8c1-212f82ddc19e"
+  },
+  {
+    "Name": "RadioCmp3.eu - Kanał EDM - Electronic Dance Music",
+    "Url": "https://s1.cmp3.eu/edm",
+    "Description": "Warsaw · 128 kb/s",
+    "Id": "rb:3458486b-766a-4eea-ab10-435b05a5e41f"
+  },
+  {
+    "Name": "RadioCmp3.eu - Kanał Główny",
+    "Url": "https://s1.cmp3.eu/stream128",
+    "Description": "Warszawa · 128 kb/s",
+    "Id": "rb:46317322-eb22-4671-a3df-9b3ee155255a"
+  },
+  {
+    "Name": "RadioFEST",
+    "Url": "https://play.radiofest.pl:8443/fest",
+    "Description": "192 kb/s",
+    "Id": "rb:c5537928-638d-4eef-b603-11a089027f8c"
+  },
+  {
+    "Name": "radiOFF",
+    "Url": "https://stream.radioff.com/stream.mp3",
+    "Description": "Oderland · 128 kb/s",
+    "Id": "rb:4b0a5f79-b1c5-4c24-963e-0c36ddb8d1aa"
+  },
+  {
+    "Name": "radiokultura.pl",
+    "Url": "http://51.255.8.139:9772/",
+    "Description": "256 kb/s",
+    "Id": "rb:be5ce9ba-e500-42bf-a74d-a3b95cd045b9"
+  },
+  {
+    "Name": "Radioparty.pl",
+    "Url": "http://s7.radioparty.pl:8000/",
+    "Description": "Wieliczka",
+    "Id": "rb:96102577-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "Radioparty.pl Energy2000",
+    "Url": "http://energy2000.radioparty.pl:8005/",
+    "Description": "Wieliczka · 128 kb/s",
+    "Id": "rb:9611404d-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "Radioparty.pl House Party",
+    "Url": "http://house.radioparty.pl:8010/",
+    "Description": "Wieliczka · 128 kb/s",
+    "Id": "rb:963a8960-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "RadioRadio.FM",
+    "Url": "https://c16.radioboss.fm/stream/14",
+    "Description": "128 kb/s",
+    "Id": "rb:bca181fd-39f2-4f62-8c57-f63a381f23ab"
+  },
+  {
+    "Name": "RadioSDM",
+    "Url": "https://s1.free-shoutcast.com/stream/18226arabellavie?1782654391428",
+    "Description": "320 kb/s",
+    "Id": "rb:6beaad42-0882-438b-ac18-8345a3bedbfe"
+  },
+  {
+    "Name": "RadioWoM",
+    "Url": "http://51.255.8.139:9120/stream",
+    "Description": "256 kb/s",
+    "Id": "rb:d6a6f0ea-b738-43e1-904c-9fd300733adb"
+  },
+  {
+    "Name": "RadiumFM Warsaw",
+    "Url": "https://stream.radiumfm.com/warsaw",
+    "Description": "128 kb/s",
+    "Id": "rb:afca811d-7a73-487a-a3f2-5fb261187f8d"
+  },
+  {
+    "Name": "Red7 - Kanał EDM",
+    "Url": "https://s.red7.pl/edm256",
+    "Description": "256 kb/s",
+    "Id": "rb:badb4f61-ebcc-4b1f-bc7d-f56993083f98"
+  },
+  {
+    "Name": "Red7.pl - Kanał Główny",
+    "Url": "https://s.red7.pl/stream256",
+    "Description": "256 kb/s",
+    "Id": "rb:ddcc5b96-282b-4ab0-81ed-4a5a366b5686"
+  },
+  {
+    "Name": "REGION",
+    "Url": "https://s1.slotex.pl:7592/",
+    "Description": "Schlesien · 128 kb/s",
+    "Id": "rb:61d69a37-dc98-4178-8863-876f7ced6a34"
+  },
+  {
+    "Name": "REPLAY NEWS - Polski",
+    "Url": "https://replaynewspl.ice.infomaniak.ch/replaynewspl-128.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:f3de47eb-0fbb-4cbc-bea2-e13acfef225a"
+  },
+  {
+    "Name": "Reverb Riff Radio",
+    "Url": "https://azuracast.reverbriff.com/listen/reverb_riff_radio/radio.mp3",
+    "Description": "Polskie radio internetowe",
+    "Id": "rb:91ded3bd-537c-4c3d-99e8-5bee86de4930"
+  },
+  {
+    "Name": "RMC - RADIO MUZYKA CZLOWIEK",
+    "Url": "http://s1.slotex.pl:7030/stream/",
+    "Description": "320 kb/s",
+    "Id": "rb:1f947e3f-9718-4006-b9cf-21ab08ee0996"
+  },
+  {
+    "Name": "RMF 4 DANCE & RNB",
+    "Url": "https://rs6-krk2.rmfstream.pl/rmf_4",
+    "Description": "128 kb/s",
+    "Id": "rb:23687de7-9621-4e09-b190-1f83fd626906"
+  },
+  {
+    "Name": "RMF 5 Lagodne Przeboje",
+    "Url": "https://rs103-krk-cyfronet.rmfstream.pl/rmf_5",
+    "Description": "Krakow · 128 kb/s",
+    "Id": "rb:b7f8b198-0f5a-4868-b602-1a2c181f4591"
+  },
+  {
+    "Name": "RMF 60s",
+    "Url": "http://195.150.20.242:8000/rmf_60s",
+    "Description": "128 kb/s",
+    "Id": "rb:29184df4-71fb-482d-be88-687a3a43a38b"
+  },
+  {
+    "Name": "RMF 80s disco",
+    "Url": "https://rs103-krk-cyfronet.rmfstream.pl/rmf_80s_disco",
+    "Description": "Krakow · 128 kb/s",
+    "Id": "rb:4d9c5e12-d286-4e56-b2a5-cc327e9ee516"
+  },
+  {
+    "Name": "RMF 90s dance",
+    "Url": "https://rs101-krk-cyfronet.rmfstream.pl/rmf_90s_dance",
+    "Description": "128 kb/s",
+    "Id": "rb:759c1125-8aa4-4c72-8750-9d883e6e243d"
+  },
+  {
+    "Name": "Rmf Ballady",
+    "Url": "http://217.74.72.10/rmf_nostalgia",
+    "Description": "128 kb/s",
+    "Id": "rb:e45da984-cd14-4087-8c3e-869de43beefe"
+  },
+  {
+    "Name": "RMF Chillout",
+    "Url": "https://rs201-krk-cyfronet.rmfstream.pl/rmf_chillout",
+    "Description": "Krakow · 128 kb/s",
+    "Id": "rb:09e3a9d6-3909-420f-a453-a56ef2690327"
+  },
+  {
+    "Name": "RMF Classic",
+    "Url": "http://rmfstream1.interia.pl:8000/rmf_classic",
+    "Description": "128 kb/s",
+    "Id": "rb:6c800ca2-7e1e-4020-a026-57f55de88e74"
+  },
+  {
+    "Name": "RMF Classic Rock",
+    "Url": "https://rs201-krk.rmfstream.pl/rmf_classic_rock",
+    "Description": "Małopolskie · 128 kb/s",
+    "Id": "rb:33e0d018-39ac-4776-a288-20ec4fdc0a15"
+  },
+  {
+    "Name": "RMF Club",
+    "Url": "https://rs203-krk-cyfronet.rmfstream.pl/rmf_club",
+    "Description": "128 kb/s",
+    "Id": "rb:a5a4980f-aa3d-4de4-a99c-1502c4cd0dff"
+  },
+  {
+    "Name": "RMF Dance",
+    "Url": "http://rmfstream1.interia.pl:8000/rmf_dance",
+    "Description": "Krakow · 128 kb/s",
+    "Id": "rb:21ba9188-59a9-11ea-be63-52543be04c81"
+  },
+  {
+    "Name": "RMF DANCE FAKTY",
+    "Url": "http://195.150.20.7/rmf_dance_f",
+    "Description": "128 kb/s",
+    "Id": "rb:ea305816-dc67-495e-a387-989e293074d1"
+  },
+  {
+    "Name": "RMF Disco polo",
+    "Url": "http://195.150.20.244/rmf_disco_polo",
+    "Description": "128 kb/s",
+    "Id": "rb:1c0f423c-5403-4cf4-9e37-57010ed28b0d"
+  },
+  {
+    "Name": "RMF FITNESS FAKTY",
+    "Url": "http://195.150.20.7/rmf_fitness_f",
+    "Description": "128 kb/s",
+    "Id": "rb:9a28499e-2835-4a9c-9149-cb896426d620"
+  },
+  {
+    "Name": "RMF FM",
+    "Url": "http://195.150.20.242:8000/rmf_fm",
+    "Description": "128 kb/s",
+    "Id": "rb:399b7c2a-6680-11e8-b15b-52543be04c81"
+  },
+  {
+    "Name": "RMF FM 128 Kbps",
+    "Url": "https://rs101-krk.rmfstream.pl/rmf_fm",
+    "Description": "Kraków · 128 kb/s",
+    "Id": "rb:813658e2-50a8-4ab3-ae33-03f1710d3a56"
+  },
+  {
+    "Name": "RMF Funk",
+    "Url": "https://rs101-krk-cyfronet.rmfstream.pl/rmf_funk",
+    "Description": "128 kb/s",
+    "Id": "rb:21edc70c-3a4f-49c7-b621-114cff81e01d"
+  },
+  {
+    "Name": "RMF Game Music",
+    "Url": "http://195.150.20.243:8000/rmf_gamemusic",
+    "Description": "128 kb/s",
+    "Id": "rb:bde5b794-eff2-4043-b6f9-4f1b3526d2a3"
+  },
+  {
+    "Name": "RMF Gold",
+    "Url": "https://rs103-krk-cyfronet.rmfstream.pl/rmf_gold",
+    "Description": "Krakow · 128 kb/s",
+    "Id": "rb:fb50e3c6-14a6-43fd-bd68-afb1d26f54ef"
+  },
+  {
+    "Name": "RMF HOT NEW",
+    "Url": "http://195.150.20.245/rmf_hot_new",
+    "Description": "Warsaw · 128 kb/s",
+    "Id": "rb:400d84f0-2b0f-4939-b3b2-5da5c79f6be3"
+  },
+  {
+    "Name": "RMF Latino",
+    "Url": "http://195.150.20.4/rmf_latino",
+    "Description": "Krakow · 128 kb/s",
+    "Id": "rb:03903425-7b93-4c5c-9892-35ea79c439cd"
+  },
+  {
+    "Name": "RMF MAXX",
+    "Url": "http://195.150.20.242/rmf_maxxx",
+    "Description": "128 kb/s",
+    "Id": "rb:bb403aa2-2451-45e4-b770-a62012d2ddac"
+  },
+  {
+    "Name": "RMF Maxx Bydgoszcz",
+    "Url": "http://rmfstream1.interia.pl/rmf_maxxx_byd",
+    "Description": "128 kb/s",
+    "Id": "rb:100fb18c-fda6-4cc5-b91e-78d7c9ed7c4d"
+  },
+  {
+    "Name": "RMF MAXX Hop bęc\"",
+    "Url": "http://195.150.20.244/rmf_hop_bec",
+    "Description": "Warszawa · 128 kb/s",
+    "Id": "rb:6a00ad1b-38b2-47a6-b93f-10add79faefc"
+  },
+  {
+    "Name": "RMF Maxx Kielce",
+    "Url": "https://rs6-krk2.rmfstream.pl/rmf_maxxx_kie",
+    "Description": "128 kb/s",
+    "Id": "rb:1a65e79f-e63e-4edf-a9e5-6a919e4610d9"
+  },
+  {
+    "Name": "RMF MAXX Podlasie",
+    "Url": "https://rs101-krk.rmfstream.pl/rmf_maxxx_lom",
+    "Description": "Bialystok · 128 kb/s",
+    "Id": "rb:d2666286-0af9-4e40-886a-05f18a82821e"
+  },
+  {
+    "Name": "RMF Maxx Włocławek",
+    "Url": "http://195.150.20.3/rmf_maxxx_wlc",
+    "Description": "128 kb/s",
+    "Id": "rb:197f14e8-000c-43c1-b056-bb46e91d8abf"
+  },
+  {
+    "Name": "RMF MAXXX 99.7 Pomorze",
+    "Url": "https://rs202-krk-cyfronet.rmfstream.pl/rmf_maxxx?aw_0_1st.playerid=RMF_TuneIn&skey=1616600473",
+    "Description": "128 kb/s",
+    "Id": "rb:5785313c-25f6-4e88-a382-756b69927ee2"
+  },
+  {
+    "Name": "RMF MAXXX KIELCE",
+    "Url": "http://rs6-krk2.rmfstream.pl/rmf_maxxx_kie",
+    "Description": "128 kb/s",
+    "Id": "rb:128bd0bb-26fc-480b-a6ab-249c1db7c0e1"
+  },
+  {
+    "Name": "RMF MAXXX KROSNO",
+    "Url": "http://rs6-krk2.rmfstream.pl/rmf_maxxx_ksn",
+    "Description": "128 kb/s",
+    "Id": "rb:cee9e8b0-a0bc-4009-a91b-dc7ecd1611cd"
+  },
+  {
+    "Name": "RMF MAXXX Mazowsze",
+    "Url": "https://rs102-krk-cyfronet.rmfstream.pl/rmf_maxxx_cie",
+    "Description": "mazowieckie · 128 kb/s",
+    "Id": "rb:26d920f1-a269-445a-bd81-f8f426afeda6"
+  },
+  {
+    "Name": "RMF MAXXX Szczecin",
+    "Url": "http://217.74.72.10/rmf_maxxx_szc",
+    "Description": "128 kb/s",
+    "Id": "rb:6e650ddc-bb04-4823-a978-eac124df3482"
+  },
+  {
+    "Name": "RMF Muzyka Klasyczna",
+    "Url": "https://rs201-krk.rmfstream.pl/rmf_muzyka_klasyczna",
+    "Description": "Krakow · 128 kb/s",
+    "Id": "rb:128cd066-4fb8-4670-af57-a059ede13e89"
+  },
+  {
+    "Name": "RMF Muzyka_Filmowa",
+    "Url": "https://rs102-krk.rmfstream.pl/rmf_muzyka_filmowa",
+    "Description": "128 kb/s",
+    "Id": "rb:4a2147a0-f04f-471a-a7c6-d8fc4d2b0bf4"
+  },
+  {
+    "Name": "RMF Najwieksze Polskie Przeboje",
+    "Url": "https://rs102-krk-cyfronet.rmfstream.pl/npp_rmf_on",
+    "Description": "128 kb/s",
+    "Id": "rb:f6aa00c2-5b44-454b-9a7a-4459db170a30"
+  },
+  {
+    "Name": "RMF Party",
+    "Url": "https://rs202-krk.rmfstream.pl/rmf_party",
+    "Description": "Krakow · 128 kb/s",
+    "Id": "rb:00e201f0-f086-4fda-8bde-db89c47dc6f2"
+  },
+  {
+    "Name": "RMF PIOSENKA FILMOWA",
+    "Url": "http://217.74.72.10/rmf_piosenka_filmowa",
+    "Description": "Warszawa · 128 kb/s",
+    "Id": "rb:c895157b-7e62-48e3-86b0-e49a2661849e"
+  },
+  {
+    "Name": "RMF Piosenka literacka",
+    "Url": "https://rs203-krk.rmfstream.pl/rmf_piosenka_literacka",
+    "Description": "128 kb/s",
+    "Id": "rb:1577dfd7-e879-46c0-b58c-9528caf12e54"
+  },
+  {
+    "Name": "RMF Pobudka",
+    "Url": "https://rs203-krk.rmfstream.pl/rmf_pobudka",
+    "Description": "Krakow · 128 kb/s",
+    "Id": "rb:4da7adde-4f12-41bb-8926-d7a4feac7ecc"
+  },
+  {
+    "Name": "RMF Polska prywatka",
+    "Url": "http://31.192.216.5/rmf_polska_prywatka",
+    "Description": "128 kb/s",
+    "Id": "rb:cddfff82-279b-4757-9169-8fe958d6363d"
+  },
+  {
+    "Name": "RMF Polski Hip Hop",
+    "Url": "http://217.74.72.10/rmf_trend_sounds",
+    "Description": "Warszawa · 128 kb/s",
+    "Id": "rb:1a6aab07-95fe-41bc-8f36-22cca6bf4c76"
+  },
+  {
+    "Name": "RMF Polski Rock",
+    "Url": "http://195.150.20.9/rmf_polski_rock",
+    "Description": "128 kb/s",
+    "Id": "rb:000cd462-2e04-4797-851d-ec83403f73aa"
+  },
+  {
+    "Name": "RMF POPLISTA",
+    "Url": "http://195.150.20.242:8000/rmf_poplista",
+    "Description": "128 kb/s",
+    "Id": "rb:06870174-360d-4e02-84c6-9e421956b52a"
+  },
+  {
+    "Name": "RMF Relaks",
+    "Url": "https://rs103-krk.rmfstream.pl/rmf_relaks",
+    "Description": "Krakow · 128 kb/s",
+    "Id": "rb:13f5d041-2f86-4aa0-bedb-c09a7b9f332c"
+  },
+  {
+    "Name": "RMF Sloneczne Przeboje",
+    "Url": "https://rs201-krk.rmfstream.pl/rmf_sloneczne_przeboje",
+    "Description": "Krakow · 128 kb/s",
+    "Id": "rb:eae4e26e-0f33-4954-b488-618fcaabe6c0"
+  },
+  {
+    "Name": "RMF Smooth jazz",
+    "Url": "https://rs201-krk.rmfstream.pl/rmf_smooth_jazz",
+    "Description": "128 kb/s",
+    "Id": "rb:085f3791-c829-4bfe-af88-26c05e5d6437"
+  },
+  {
+    "Name": "RMF Styl",
+    "Url": "https://rs203-krk.rmfstream.pl/rmf_styl",
+    "Description": "Krakow · 128 kb/s",
+    "Id": "rb:bfd55c4c-b097-4a41-bd58-1e65be62f2aa"
+  },
+  {
+    "Name": "Rmf Szanty",
+    "Url": "http://195.150.20.244/rmf_szanty",
+    "Description": "Krakow · 128 kb/s",
+    "Id": "rb:b656caf8-d804-4e53-baee-64ca4f458a6b"
+  },
+  {
+    "Name": "RMF TOP4",
+    "Url": "https://rs102-krk-cyfronet.rmfstream.pl/rmf_top4",
+    "Description": "128 kb/s",
+    "Id": "rb:bb556f1f-d46f-4604-b980-81a34eb328e4"
+  },
+  {
+    "Name": "RMF Ziom",
+    "Url": "https://rs6-krk2.rmfstream.pl/rmf_ziom",
+    "Description": "128 kb/s",
+    "Id": "rb:e8fc56e8-0f97-4375-868a-4c58f028ddf8"
+  },
+  {
+    "Name": "RMF24",
+    "Url": "http://rmfstream1.interia.pl/rmf_24",
+    "Description": "128 kb/s",
+    "Id": "rb:7c207b66-3cac-43ce-b884-8876d196d0c9"
+  },
+  {
+    "Name": "RMF24 Wrocław",
+    "Url": "http://rs201-krk.rmfstream.pl/rmf_24_wroc",
+    "Description": "128 kb/s",
+    "Id": "rb:1a6a7484-6c1a-4253-82a8-fe9fcf96285e"
+  },
+  {
+    "Name": "rmfa classic",
+    "Url": "http://195.150.20.242:8000/rmf_classic",
+    "Description": "128 kb/s",
+    "Id": "rb:84ab82ac-5022-4644-9040-c29bba74595a"
+  },
+  {
+    "Name": "RMFmaxx",
+    "Url": "https://rs103-krk-cyfronet.rmfstream.pl/rmf_maxxx",
+    "Description": "Poland · 128 kb/s",
+    "Id": "rb:dea9401e-2a1e-4000-a54e-3f2a459929e8"
+  },
+  {
+    "Name": "RMI Euro Disco",
+    "Url": "https://ams-pioneer02.dedicateware.com:2655/stream",
+    "Description": "320 kb/s",
+    "Id": "rb:a8a90171-eb88-45ec-adc3-df2514c8e0dc"
+  },
+  {
+    "Name": "Rock Radio",
+    "Url": "https://radiostream.pl/tuba8-1.mp3?cache=1650763965",
+    "Description": "128 kb/s",
+    "Id": "rb:2262381e-c794-4953-bb74-b8acac9f2d4a"
+  },
+  {
+    "Name": "Rock Radio - Kraków",
+    "Url": "http://radiostream.pl/tuba9000-1.mp3",
+    "Description": "Małopolska · 128 kb/s",
+    "Id": "rb:490a2fb3-e9ef-4ec4-a44a-4348a6a3cd8c"
+  },
+  {
+    "Name": "Rock Radio Klasyka Rocka",
+    "Url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ROCK.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:bf70deba-6cd7-4b4d-b347-23b267cd75dd"
+  },
+  {
+    "Name": "Rockserwis.fm",
+    "Url": "http://stream9.nadaje.com:8002/live",
+    "Description": "Małopolska",
+    "Id": "rb:9612c646-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "rp",
+    "Url": "http://s1.radioparty.pl:8000/stream",
+    "Description": "128 kb/s",
+    "Id": "rb:761c06ae-5d5c-4128-9e02-8f3e6c091cc2"
+  },
+  {
+    "Name": "Sizeer",
+    "Url": "https://rs103-krk-cyfronet.rmfstream.pl/sizeer_fm",
+    "Description": "128 kb/s",
+    "Id": "rb:b4c32130-ee35-4054-ab06-7696b81b2407"
+  },
+  {
+    "Name": "Slonskie Radio Hitmix",
+    "Url": "http://s1.slotex.pl:7294/",
+    "Description": "128 kb/s",
+    "Id": "rb:960fc4ae-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "SmoothJazz.com.pl 320k MP3",
+    "Url": "https://bcast.vigormultimedia.com:48888/sjcompl320mp3",
+    "Description": "Pomorskie · 320 kb/s",
+    "Id": "rb:53241c38-4a74-4beb-9514-1033913d1ede"
+  },
+  {
+    "Name": "SoundFM",
+    "Url": "http://s1.slotex.pl:7494/",
+    "Description": "256 kb/s",
+    "Id": "rb:96114637-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "Super FM",
+    "Url": "http://stream.super.fm:8000/superfm.mp3",
+    "Description": "192 kb/s",
+    "Id": "rb:b28ed0ea-bbc5-4127-a456-0a29a051e78c"
+  },
+  {
+    "Name": "Super FM 97.5",
+    "Url": "https://stream.super.fm:8443/superfm.mp3?1697692156303",
+    "Description": "192 kb/s",
+    "Id": "rb:4361dffc-fa94-411e-8cb4-57e7888d88d1"
+  },
+  {
+    "Name": "SUPER NOWA RZESZÓW",
+    "Url": "http://ic1.smcdn.pl/1240-1.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:549365c5-cc9b-4156-8617-b59841898462"
+  },
+  {
+    "Name": "supernova",
+    "Url": "http://ic1.smcdn.pl/1510-1.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:f172576c-f7fc-416f-8ca4-b88a55eaa0ad"
+  },
+  {
+    "Name": "supernova Gdańsk",
+    "Url": "http://ic1.smcdn.pl/1170-1.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:4e9944ba-e13b-4c09-b2ca-63ba8ce34cdf"
+  },
+  {
+    "Name": "supernova Jelenia Góra",
+    "Url": "http://ic1.smcdn.pl/1480-1.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:04bd6228-ebc8-444e-9068-160d4fb88156"
+  },
+  {
+    "Name": "supernova Kielce",
+    "Url": "http://ic1.smcdn.pl/1050-1.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:488420e5-7a01-422e-90bc-a495db15af62"
+  },
+  {
+    "Name": "Supernova Party",
+    "Url": "https://ic2.smcdn.pl/6160-1.mp3#Supernova_Party",
+    "Description": "Warszawa · 128 kb/s",
+    "Id": "rb:53195414-8978-42e0-a624-1fe43bb7ec4f"
+  },
+  {
+    "Name": "SuperNova Rock",
+    "Url": "https://waw.ic.smcdn.pl/6090-1.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:1a96d012-8be3-437c-ac1d-8aad52f6078f"
+  },
+  {
+    "Name": "Supernova Super 13",
+    "Url": "https://ic2.smcdn.pl/6230-1.mp3#Supernova_Party",
+    "Description": "Warszawa · 128 kb/s",
+    "Id": "rb:59193039-845c-4592-ab42-415da4ccbb22"
+  },
+  {
+    "Name": "supernova Szczecin",
+    "Url": "http://ic1.smcdn.pl/1260-1.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:fa6dd797-e5ce-4805-9f35-4c5fe137332e"
+  },
+  {
+    "Name": "supernova Wrocław",
+    "Url": "http://ic1.smcdn.pl/1180-1.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:fb8d837f-61b0-4b98-973f-4c882d84bde0"
+  },
+  {
+    "Name": "TobiFM",
+    "Url": "https://s1.slotex.pl/shoutcast/7822/stream",
+    "Description": "64 kb/s",
+    "Id": "rb:93758766-dc68-4c93-9469-af07ff3bd91d"
+  },
+  {
+    "Name": "TOK FM",
+    "Url": "https://radiostream.pl/tuba10-1.mp3#TOK_FM",
+    "Description": "128 kb/s",
+    "Id": "rb:c7915f33-f401-4ab4-9f49-dcc1cce15ed6"
+  },
+  {
+    "Name": "TokFM",
+    "Url": "https://radiostream.pl/tuba10-1.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:0013eb82-2dea-41f7-9534-936d0b2721b7"
+  },
+  {
+    "Name": "trap pl",
+    "Url": "https://getradio.reconv.pl/openfm?s=trap",
+    "Description": "Polskie radio internetowe",
+    "Id": "rb:b9daa3c9-b2f9-4d9b-9841-5f9fa1df9eae"
+  },
+  {
+    "Name": "Trendy Radio",
+    "Url": "http://stream.trendyradio.pl:8000/h",
+    "Description": "Krosno · 128 kb/s",
+    "Id": "rb:9611e22b-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "trip radio",
+    "Url": "https://a13.asurahosting.com/listen/trip-radio/radio.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:4e19721e-b501-48eb-887b-cdd187e1670b"
+  },
+  {
+    "Name": "Trojka",
+    "Url": "http://stream3.polskieradio.pl:8904/",
+    "Description": "192 kb/s",
+    "Id": "rb:964aa3f1-0601-11e8-ae97-52543be04c81"
+  },
+  {
+    "Name": "Trójka mp3",
+    "Url": "http://mp3.polskieradio.pl:8904/",
+    "Description": "192 kb/s",
+    "Id": "rb:8f057fd9-9d5d-41bb-9862-79d7e3cce814"
+  },
+  {
+    "Name": "Twoja Polska Stacja",
+    "Url": "https://sluchaj2.radiopark.biz.pl:8443/tpsapp",
+    "Description": "128 kb/s",
+    "Id": "rb:8c111711-f7d5-42e6-907d-1b5f9a4402df"
+  },
+  {
+    "Name": "Tyflo radio",
+    "Url": "http://radio.tyflopodcast.net/",
+    "Description": "192 kb/s",
+    "Id": "rb:7a0fdb34-bb82-431b-8f3f-039f2f23a7cf"
+  },
+  {
+    "Name": "TyfloRadio",
+    "Url": "https://radio.tyflopodcast.net/",
+    "Description": "Malopolskie · 192 kb/s",
+    "Id": "rb:3c71fc65-1794-4c50-8359-946ada49703b"
+  },
+  {
+    "Name": "U-RADIO TRANCE",
+    "Url": "http://stream.zeno.fm/n8yr1d9g9whvv",
+    "Description": "128 kb/s",
+    "Id": "rb:9bdb6ea3-2045-452f-913f-849bee582752"
+  },
+  {
+    "Name": "UJOT FM",
+    "Url": "https://stream.ujot.fm/",
+    "Description": "320 kb/s",
+    "Id": "rb:d5b9e6b3-05e6-4335-a979-5c5fc2599fa9"
+  },
+  {
+    "Name": "VOX DJ Mix",
+    "Url": "http://waw.ic.smcdn.pl/6020-1.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:912cadec-4484-4b09-8d71-9e3e45c8826b"
+  },
+  {
+    "Name": "VOX FM",
+    "Url": "http://ic1.smcdn.pl/3990-1.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:c101cf0d-9385-452f-96f8-ad46425f89d3"
+  },
+  {
+    "Name": "VOX FM 128",
+    "Url": "https://ic2.smcdn.pl/3990-1.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:c62a050f-cfd4-4fc5-8c93-ebaf0bc84738"
+  },
+  {
+    "Name": "VOX FM 128kbps",
+    "Url": "https://pldm.one.pl/radio?url=https://www.eskago.pl/radio/vox-fm",
+    "Description": "128 kb/s",
+    "Id": "rb:a0d8c631-5097-48ed-81a8-50f6b9324665"
+  },
+  {
+    "Name": "VOX FM BEST LISTA",
+    "Url": "http://ic1.smcdn.pl/6100-1.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:c616df0f-1e39-44b7-a7e0-8052a233d46c"
+  },
+  {
+    "Name": "VOX FM DISCO 90",
+    "Url": "http://ic1.smcdn.pl/6170-1.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:ed092732-49e1-449c-b7de-811b5241182a"
+  },
+  {
+    "Name": "VOX FM DISCO PARTY",
+    "Url": "http://ic1.smcdn.pl/6180-1.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:1187b5c6-031c-46aa-a17d-72d034e36a00"
+  },
+  {
+    "Name": "VOX FM HIT 22",
+    "Url": "http://ic1.smcdn.pl/6020-1.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:bf97ae48-d8aa-4c71-b8de-19f077a540de"
+  },
+  {
+    "Name": "Wasze Radio FM",
+    "Url": "https://sluchaj.link:5443/wasze",
+    "Description": "192 kb/s",
+    "Id": "rb:21a59f6d-a10c-45cb-8dcb-ab20bd5e4f9e"
+  },
+  {
+    "Name": "Wesoła 43",
+    "Url": "http://s1.slotex.pl:7650/stream",
+    "Description": "64 kb/s",
+    "Id": "rb:992fd482-eaf9-48d0-9def-3ce0c3baa90f"
+  },
+  {
+    "Name": "Wesołe Slonzoki",
+    "Url": "http://51.255.8.139:8380/stream",
+    "Description": "128 kb/s",
+    "Id": "rb:3a301466-ef46-4112-866e-d90af34a1d7b"
+  },
+  {
+    "Name": "WIELKOPOLSKA",
+    "Url": "http://217.182.76.63:8000/webstream",
+    "Description": "Welkopolska",
+    "Id": "rb:5d208f6a-f817-469f-a6d2-322251a2ab8a"
+  },
+  {
+    "Name": "Wnet.fm",
+    "Url": "https://media.wnet.fm/wnet.fm",
+    "Description": "Polskie radio internetowe",
+    "Id": "rb:698edc0e-7027-11ea-b1cf-52543be04c81"
+  },
+  {
+    "Name": "Zamek Nadaje",
+    "Url": "http://uksoutha.streaming.broadcast.radio:15190/zameknadaje",
+    "Description": "Dolnyśląsk",
+    "Id": "rb:2199c9e0-c2e9-4368-ac41-0d748e3dc90c"
+  },
+  {
+    "Name": "Zet 90s",
+    "Url": "https://zt02.cdn.eurozet.pl/ZET090.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:405285f7-d4b3-4cfb-a2f7-120a6876d7ae"
+  },
+  {
+    "Name": "ZET DANCE",
+    "Url": "http://pl01.cdn.eurozet.pl/ZETDAN.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:c99f1070-f077-47fb-a9c8-fca5f8d14dec"
+  },
+  {
+    "Name": "ZET Impreza",
+    "Url": "https://zt.cdn.eurozet.pl/ZETPAR.mp3",
+    "Description": "Warszawa · 128 kb/s",
+    "Id": "rb:8c0a8114-9606-4a5b-826b-5d7a7e97d135"
+  },
+  {
+    "Name": "ZET Latino",
+    "Url": "https://ch.cdn.eurozet.pl/ZETLTN.mp3",
+    "Description": "Warszawa · 128 kb/s",
+    "Id": "rb:007bfa3a-694f-4565-8a15-f4989e42f4ca"
+  },
+  {
+    "Name": "ZET Na Swieta",
+    "Url": "https://zt.cdn.eurozet.pl/ZETSWI.mp3",
+    "Description": "Warszawa · 128 kb/s",
+    "Id": "rb:aa1f744f-95bf-4616-8c60-183a844fd12b"
+  },
+  {
+    "Name": "ZET Po Polsku",
+    "Url": "https://zt.cdn.eurozet.pl/ZETPL1.mp3",
+    "Description": "Warszawa · 128 kb/s",
+    "Id": "rb:f11d134a-f198-415a-86a4-cb518c57127d"
+  },
+  {
+    "Name": "ZET Pop Rock",
+    "Url": "https://zt.cdn.eurozet.pl/ZETPRK.mp3",
+    "Description": "Warszawa · 128 kb/s",
+    "Id": "rb:0e992971-d7c4-4346-b310-385c466d6298"
+  },
+  {
+    "Name": "Zet Radio",
+    "Url": "http://redir.atmcdn.pl/sc/o2/Eurozet/live/audio.livx?audio=5",
+    "Description": "128 kb/s",
+    "Id": "rb:72b9ca62-c7d6-49ed-85c9-18d46631f1e4"
+  },
+  {
+    "Name": "ZET Same Hity",
+    "Url": "https://zt.cdn.eurozet.pl/ZETHIT.mp3",
+    "Description": "Warszawa · 128 kb/s",
+    "Id": "rb:54513bd4-cc2c-4c69-a20d-fc9c83c11b09"
+  },
+  {
+    "Name": "Zloteprzeboje",
+    "Url": "https://radiostream.pl/tuba8904-1.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:86632585-f76d-4cac-b771-d2c6902366c3"
+  },
+  {
+    "Name": "Złote Przeboje Bydgoszcz",
+    "Url": "https://radiostream.pl/tuba8902-1.mp3",
+    "Description": "128 kb/s",
+    "Id": "rb:b2c06706-5e1f-4e54-a0f4-1a9d644d5b52"
+  },
+  {
+    "Name": "Złote Przeboje Poznań",
+    "Url": "http://radiostream.pl/tuba8926-1.mp3",
+    "Description": "Poznań · 128 kb/s",
+    "Id": "rb:ad320b38-45a1-44a2-bba4-7fb7fb8cb41c"
+  },
+  {
+    "Name": "Śląskie Radio",
+    "Url": "https://stream10.hosterion.pl:7032/;?v=63125/;type=mp3",
+    "Description": "Upper Silesia · 320 kb/s",
+    "Id": "rb:23f3f5c1-15f1-4480-83fa-916b1cf8a31b"
+  }
+]

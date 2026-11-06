@@ -1,0 +1,19 @@
+{
+  "DisplayName": "radioMAT",
+  "Publisher": "MATCODE",
+  "PublisherUrl": "https://matmiccode.github.io/radiomat-app/",
+  "AppId": "{0B1A7E74-AD93-4D29-956C-94EAA23BFF0A}",
+  "AppUserModelId": "MATCODE.radioMAT",
+  "InstallDirectory": "radioMAT",
+  "SettingsDirectory": "Radiomat",
+  "RunValueName": "Radiomat",
+  "InstanceName": "radioMAT",
+  "SupportUri": "https://github.com/matmiccode/radiomat-app/issues/new",
+  "UpdateLocation": "https://api.github.com/repos/matmiccode/radiomat-app/releases/latest",
+  "IsPublic": true,
+  "UpdatePublicKey": "N12Nv6pRM1dqwo1IYHugGYaojeyLCZ6W9QoIrvotwRA=",
+  "CoffeeUri": "https://buycoffee.to/matcode",
+  "CoffeeLabelPl": "Postaw kawę autorowi",
+  "CoffeeLabelEn": "Buy the author a coffee",
+  "CoffeeGlyph": "☕"
+}
