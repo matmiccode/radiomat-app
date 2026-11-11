@@ -30,6 +30,9 @@ SolidCompression=yes
 WizardStyle=modern
 CloseApplications=yes
 RestartApplications=no
+; The uninstall list is rewritten instead of appended, so paths of files from older versions do not
+; stay in it forever. [InstallDelete] removes those files anyway (same as Whisper Automat, 11.11).
+UninstallLogMode=overwrite
 
 [Languages]
 Name: "polish"; MessagesFile: "compiler:Languages\Polish.isl"
@@ -47,6 +50,17 @@ english.LaunchRadio=Launch radioMAT
 
 [Tasks]
 Name: "desktopicon"; Description: "{cm:DesktopIcon}"; Flags: unchecked
+
+[InstallDelete]
+; An update does not remove files the new package no longer has, so leftovers of older versions
+; would stay. Program files go before copying and [Files] puts the new version back. Settings live
+; in %APPDATA% (outside {app}) and the uninstaller (unins*) is left alone. Silent: not in release notes.
+Type: files; Name: "{app}\radioMAT.exe"
+Type: files; Name: "{app}\createdump.exe"
+Type: files; Name: "{app}\*.dll"
+Type: files; Name: "{app}\*.json"
+Type: filesandordirs; Name: "{app}\licenses"
+Type: filesandordirs; Name: "{app}\pl"
 
 [Files]
 Source: "{#PublishDirectory}\*"; DestDir: "{app}"; Excludes: "*.pdb"; Flags: ignoreversion recursesubdirs createallsubdirs

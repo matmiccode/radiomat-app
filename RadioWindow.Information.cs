@@ -15,6 +15,7 @@ public partial class RadioWindow
 {
     private readonly UpdateService _updates = new();
     private bool _updatesBusy;
+    private Forms.ToolStripMenuItem? _trayMute;
     private string? _trackKey = "CheckingTitle", _statusTipKey;
     private string _statusKey = "Ready";
 
@@ -38,31 +39,41 @@ public partial class RadioWindow
     private void BuildTrayMenu()
     {
         var previous = _tray.ContextMenuStrip;
-        var menu = new Forms.ContextMenuStrip();
-        menu.Items.Add(Strings.T("Show"), null, (_, _) => Restore());
-        menu.Items.Add(new Forms.ToolStripSeparator());
+        var menu = new TrayVolumeMenu((int)Math.Round(VolumeSlider.Value));
+        menu.VolumeChanged += value => VolumeSlider.Value = value;
+        menu.Commands.Add(Strings.T("Show"), null, (_, _) => Restore());
+        menu.Commands.Add(new Forms.ToolStripSeparator());
         for (int i = 0; i < 3; i++)
         {
             var slot = i;
             _trayFavorites[i] = new Forms.ToolStripMenuItem();
             _trayFavorites[i].Click += (_, _) => SelectShortcut(slot);
-            menu.Items.Add(_trayFavorites[i]);
+            menu.Commands.Add(_trayFavorites[i]);
         }
-        menu.Items.Add(new Forms.ToolStripSeparator());
-        menu.Items.Add(Strings.T("TogglePlayback"), null, (_, _) => TogglePlayback());
-        menu.Items.Add(Strings.T("CheckUpdates"), null, async (_, _) => await CheckUpdatesAsync(true));
-        menu.Items.Add(Strings.T("About"), null, (_, _) => ShowAbout());
-        menu.Items.Add(Strings.T("Report"), null, (_, _) => OpenLink(EditionConfiguration.Current.SupportUri));
+        menu.Commands.Add(new Forms.ToolStripSeparator());
+        _trayMute = new Forms.ToolStripMenuItem(Strings.T("MuteRadio")) { CheckOnClick = true };
+        _trayMute.Click += (_, _) => TogglePlayback();
+        menu.Commands.Add(_trayMute);
+        UpdateTrayPlayback();
+        menu.Commands.Add(Strings.T("CheckUpdates"), null, async (_, _) => await CheckUpdatesAsync(true));
+        menu.Commands.Add(Strings.T("About"), null, (_, _) => ShowAbout());
+        menu.Commands.Add(Strings.T("Report"), null, (_, _) => OpenLink(EditionConfiguration.Current.SupportUri));
         if (EditionConfiguration.Current.IsPublic)
         {
-            menu.Items.Add(Strings.Current.English ? EditionConfiguration.Current.CoffeeLabelEn : EditionConfiguration.Current.CoffeeLabelPl,
+            menu.Commands.Add(Strings.Current.English ? EditionConfiguration.Current.CoffeeLabelEn : EditionConfiguration.Current.CoffeeLabelPl,
                 null, (_, _) => OpenLink(EditionConfiguration.Current.CoffeeUri));
-            menu.Items.Add("PL / EN", null, (_, _) => ChangeLanguage());
+            menu.Commands.Add("PL / EN", null, (_, _) => ChangeLanguage());
         }
-        menu.Items.Add(new Forms.ToolStripSeparator());
-        menu.Items.Add(Strings.T("Exit"), null, (_, _) => Exit());
+        menu.Commands.Add(new Forms.ToolStripSeparator());
+        menu.Commands.Add(Strings.T("Exit"), null, (_, _) => Exit());
         _tray.ContextMenuStrip = menu;
         previous?.Dispose();
+    }
+    private void UpdateTrayPlayback()
+    {
+        if (_trayMute == null) return;
+        _trayMute.Checked = _audio == null;
+        _trayMute.ToolTipText = Strings.T(_audio == null ? "RadioMutedHint" : "RadioPlayingHint");
     }
     private void ChangeLanguage()
     {

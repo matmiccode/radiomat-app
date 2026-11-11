@@ -23,4 +23,4 @@ try {
   const signature = Buffer.from(signatureText, 'base64');
   if (signature.length !== 64 || !crypto.verify(null, bytes, key, signature)) throw Error();
   console.log('OK: installer name, version description, size, SHA256 and Ed25519 signature match this edition.');
-} catch (_) { console.error('Release verification failed. Nothing was published.'); process.exitCode = 1; }
+} catch (_) { console.error('Release verification failed: name, description, size, SHA256 or signature does not match this edition.'); process.exitCode = 1; }

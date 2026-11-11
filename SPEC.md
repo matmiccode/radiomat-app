@@ -37,6 +37,10 @@ zawierał tylko właściwą tożsamość i ustawienia.
 - K1.5 Gdy buduję oba wydania, to mają odrębne AppId, tożsamość systemową,
   ustawienia, autostart i blokadę pojedynczej instancji. Dane publicznej wersji
   roboczej 0.2.0 pozostają dostępne w jej następcy publicznym.
+- K1.6 Gdy przygotowuję wydanie, to każde ma własny opis „Co nowego”: wewnętrzny
+  (po polsku) bez wzmianki o wydaniu publicznym, wsparciu autora, kawie i „dwóch
+  wydaniach”; publiczny bez wzmianki o wydaniu wewnętrznym. Opis z niedozwolonym
+  słowem zatrzymuje build przed instalatorem (Mateusz 11.11, od 0.3.1).
 
 ### H2. Instalacja i dotychczasowe radio
 
@@ -50,6 +54,10 @@ Jako słuchacz chcę instalować i aktualizować program bez utraty stacji.
   tytuły ICY, pojedyncza instancja oraz start i obsługa w zasobniku.
 - K2.4 Gdy profil lub ścieżka ma spacje i polskie znaki, to instalacja i aktualizacja
   działają. Odinstalowanie usuwa własne skróty i autostart, zachowując ustawienia.
+- K2.5 Gdy aktualizuję program, to instalator przed skopiowaniem nowej wersji usuwa
+  stare pliki programu z folderu instalacji, więc nie zostają resztki starszych wersji;
+  ustawienia (AppData) i autostart zostają. Sprzątanie jest ciche, bez wzmianki
+  w „Co nowego” (zasada centrali MATCODE 11.11, od 0.3.1).
 
 ### H3. Podpisane aktualizacje
 
@@ -102,6 +110,46 @@ Jako autor chcę przekazać sprawdzony program i jego stronę.
   głównej i wpis w profilu. Sam commit/push kodu nie jest publikacją wydania.
 - K6.3 Gdy kończę etap, to zapisuję wyniki i pozostałe braki. Wiadomość ze skrzynki
   zamykam dopiero po wykonaniu jej zakresu; tabelę centrali aktualizuję zgodnie z faktami.
+- K6.4 Gdy opublikuję wydanie, to skrypt sam sprawdza to, co faktycznie leży w źródle
+  aktualizacji (dysk wewnętrzny albo Releases): pliki identyczne z przygotowanymi, podpis,
+  SHA256, wersja i opis bez wzmianki o drugim wydaniu, marka; publicznie także
+  widoczność repo, budowę strony i brak linków do prywatnego repo. Na koniec wypisuje,
+  co jeszcze trzeba zaktualizować (tabela centrali, STAN, link pobierania na stronie).
+  Ten sam skrypt da się uruchomić osobno, bez publikowania (Mateusz 11.11).
+
+### H7. Głośność z zasobnika — uzgodnione 11.11
+
+Jako słuchacz chcę zmieniać głośność z menu ikony przy zegarku, bez otwierania
+głównego okna radia. Mateusz wybrał suwak widoczny od razu przy wszystkich
+opcjach menu, bez dodatkowego rozwijania.
+
+- K7.1 Gdy otwieram menu zasobnika, to od razu obok dotychczasowych poleceń
+  widzę osobną kolumnę „Głośność” z pionowym suwakiem: 100% u góry, 0% u dołu
+  i czytelny bieżący procent. Nie muszę otwierać podmenu.
+- K7.2 Gdy przeciągam suwak, to od razu zmienia się tylko głośność radia; menu
+  pozostaje otwarte przez całą regulację, a główne okno nie jest pokazywane.
+  Kliknięcie poza menu lub Escape zamyka menu.
+- K7.3 Gdy zmieniam głośność w oknie albo w zasobniku, to oba suwaki i procenty
+  pokazują tę samą wartość; po zamknięciu programu i ponownym starcie wartość zostaje.
+- K7.4 Gdy radio jest zatrzymane, to mogę ustawić głośność bez uruchamiania dźwięku;
+  wznowienie używa wybranej wartości. 0% wycisza, 100% to maksimum radia.
+- K7.5 Gdy używam klawiatury, to mogę wejść do regulacji i zmieniać ją strzałkami;
+  dotychczasowe polecenia menu pozostają dostępne. Etykiety respektują język PL/EN.
+- K7.6 Gdy otwieram menu, to jego wygląd pasuje do głównego okna: jasne tło,
+  granatowy tekst, niebieski suwak, zaokrąglenia, czytelne odstępy i podświetlenie
+  opcji. Nie ma pustego białego pasa przy prawej krawędzi ani starego systemowego
+  wyglądu suwaka (uwaga Mateusza 11.11 po pierwszym odbiorze).
+  Menu jest kompaktowe; wszystkie dotychczasowe opcje są od razu widoczne,
+  bez systemowych strzałek przewijania u góry i dołu (kolejna uwaga Mateusza 11.11).
+  Gdy na ekranie jest mniej miejsca, panel dopasowuje się w całości do obszaru
+  roboczego bieżącego monitora (poza paskiem zadań); nie wymaga przewijania.
+- K7.7 Gdy otwieram menu, to zamiast „Włącz / zatrzymaj radio” widzę jedną
+  pozycję „Wycisz radio” z polem zaznaczenia. Zaznaczone oznacza zatrzymane
+  odtwarzanie, odznaczone — włączone odtwarzanie. Kliknięcie zatrzymuje/wznawia
+  radio z dotychczasową głośnością, nie zmienia procentu na suwaku i nie zamyka
+  programu. Zaznaczenie odpowiada też zmianom z głównego okna i wyborowi stacji;
+  pozycja zakończenia programu pozostaje na dole. PL/EN i klawiatura działają
+  również dla tej opcji (Mateusz 11.11, po akceptacji wyglądu i dopasowania menu).
 
 ## Dane i prywatność
 
@@ -116,7 +164,8 @@ Jako autor chcę przekazać sprawdzony program i jego stronę.
 
 ## Poza zakresem
 
-- Nowe formaty audio, nagrywanie, przebudowa katalogu, nowe funkcje słuchania.
+- Nowe formaty audio, nagrywanie, przebudowa katalogu i funkcje słuchania poza
+  opisanymi historiami.
 - Konta, synchronizacja, zbieranie statystyk i obsługa innych systemów.
 - Podpis Authenticode i zakup certyfikatu; podpis aktualizacji to osobny mechanizm.
 - Uruchamianie aplikacji, instalatora i przejmowanie pulpitu przez agenta bez
@@ -131,6 +180,12 @@ Automaty wykonujące kod wymagają wcześniejszej zgody według zasad projektu.
 
 | Test | Co zrobić | Czego oczekuję | Warunek | Sposób |
 |---|---|---|---|---|
+| T27 | Schować okno, otworzyć menu zasobnika; przeciągnąć od razu widoczny suwak w obie strony; powtórzyć przy skalowaniu Windows 100%, 150% i 200% | Suwak obok wszystkich opcji, bez podmenu i nakładania tekstów; dźwięk zmienia się od razu, menu nie znika, okno pozostaje schowane; klik poza menu / Escape zamyka je | K7.1–K7.2 | Ręcznie |
+| T28 | Ustawić 20% w oknie, 70% w trayu, zamknąć program poleceniem „Zakończ” i uruchomić ponownie | Oba miejsca pokazują tę samą wartość; po restarcie nadal 70% | K7.3 | Ręcznie |
+| T29 | Zatrzymać radio, ustawić 0%, wznowić, następnie ustawić 100% | Regulacja nie wznawia radia; 0% wycisza, 100% daje maksimum radia; głośność systemowa pozostaje bez zmian | K7.4 | Ręcznie |
+| T30 | W menu nacisnąć Tab, użyć strzałek i Escape; ponownie wejść do suwaka i nacisnąć Tab, wybrać stację; sprawdzić menu w PL i EN | Sterowanie klawiaturą działa, właściwy język, dotychczasowe polecenia działają | K7.5 | Ręcznie |
+| T31 | Otworzyć menu w PL/EN przy 100%, 150% i 200% skali, także na mniejszym ekranie; obejrzeć wszystkie krawędzie, wskazać opcję myszą i klawiaturą, przeciągnąć suwak | Całe kompaktowe menu mieści się w obszarze roboczym monitora; wszystkie opcje widoczne bez przewijania, strzałek u góry/dołu, pustego pasa i obciętych napisów; czytelny procent, zaznaczona stacja, podświetlenie i fokus; regulacja nadal działa | K7.6 | Ręcznie |
+| T32 | Ustawić 55%, zaznaczyć „Wycisz radio”, otworzyć menu ponownie, odznaczyć; potem zatrzymać/wznowić z okna i zmienić stację; powtórzyć klawiaturą i w EN | Zaznaczenie oznacza zatrzymanie; odznaczenie wznawia z zachowanymi 55%; stan zgodny z oknem, wybór stacji wznawia radio jak wcześniej i usuwa zaznaczenie; kontrolka dostępna myszą i klawiaturą, właściwy język; „Wyłącz radioMAT” nadal na dole | K7.7 | Ręcznie |
 | T1 | Przygotować każdy wariant i pominąć wybór wydania | Wybór wymagany; wspólna wersja | K1.1 | Kontrola budowania |
 | T2 | Użyć brakującej, pustej i błędnej konfiguracji wewnętrznej | Zatrzymanie przed kompilacją, bez publicznych zamienników | K1.2 | Kontrola budowania |
 | T3 | Przeskanować paczkę i instrukcję instalatora wewnętrznego | CZYSTO, marka fizycznie nieobecna | K1.3 | Kontrola statyczna |
@@ -154,12 +209,15 @@ Automaty wykonujące kod wymagają wcześniejszej zgody według zasad projektu.
 | T21 | Przygotować pakiet wewnętrzny bez publikacji | Komplet czterech plików, opis publikowany na końcu | K6.1 | Kontrola przygotowania |
 | T22 | Sprawdzić gotowe pliki, stronę i kolejność publikacji | Pełny komplet i osobna zgoda na publikację | K6.2 | Ręcznie |
 | T23 | Porównać stan prac z centralą i skrzynką | Rzeczywiste wyniki, brak przedwczesnego zamknięcia | K6.3 | Kontrola dokumentacji |
+| T24 | Wpisać do opisu wewnętrznego „wydanie publiczne” / „wsparcie autora”, a do publicznego „wydanie wewnętrzne”; zbudować | Build staje przed instalatorem; `opis` w najnowsza.json wewnętrznego bez tych słów | K1.6 | Kontrola budowania |
+| T26 | Uruchomić `tools/Verify-Published.ps1` na opublikowanym wydaniu i na kopii z podmienionym plikiem / starszą wersją w opisie | Opublikowane: OK + lista rzeczy do aktualizacji; kopia: błąd z nazwą pliku | K6.4 | Kontrola publikacji |
+| T25 | Do folderu zainstalowanej starszej wersji dodać plik `stary.dll`, zaktualizować instalatorem nowej | `stary.dll` znika, program działa, stacje/głośność/autostart zostają, odinstalowanie nadal działa | K2.5 | Ręcznie |
 
 ## Otwarte pytania przed odpowiednim etapem
 
 - Dane wydawcy i kontaktu wewnętrznego: pobrać z właściwej lokalnej konfiguracji
   lub uzupełnić lokalnie z Mateuszem; nie zgadywać i nie publikować.
-- Kandydat pierwszej nowej wersji: 0.3.0; opis „Co nowego” w RELEASE-NOTES.md.
+- Opis „Co nowego” osobno: RELEASE-NOTES.Company.md (wewnętrzny) i RELEASE-NOTES.Public.md (publiczny).
 - Końcowy odbiór dotychczasowej 0.2.0: potwierdzono długie odtwarzanie i autostart;
   pozostałe zachowania wymagają potwierdzenia użytkownika.
 

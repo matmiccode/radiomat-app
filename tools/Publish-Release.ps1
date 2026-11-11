@@ -14,6 +14,11 @@ $config = Get-Content -LiteralPath $build.Config -Raw -Encoding UTF8 | ConvertFr
 $manifest = Get-Content -LiteralPath (Join-Path $build.Output 'najnowsza.json') -Raw -Encoding UTF8 | ConvertFrom-Json
 $installer = Join-Path $build.Output $manifest.instalator
 if ($manifest.wersja -ne $build.Version) { throw 'The prepared package version changed. Rebuild.' }
+$releaseNotes = Join-Path $root "RELEASE-NOTES.$Edition.md"
+& node (Join-Path $PSScriptRoot 'Check-ReleaseNotes.cjs') $Edition $releaseNotes
+if ($LASTEXITCODE -ne 0) { throw 'Release notes check failed.' }
+& node (Join-Path $PSScriptRoot 'Check-ReleaseNotes.cjs') $Edition (Join-Path $build.Output 'najnowsza.json')
+if ($LASTEXITCODE -ne 0) { throw 'The prepared version description mentions another edition. Rebuild.' }
 $checker = Join-Path $env:USERPROFILE 'matcode/narzedzia/sprawdz-firmowe.js'
 $checkArguments = @($checker)
 if ($Edition -eq 'Public') { $checkArguments += '--publiczne' }
@@ -43,6 +48,7 @@ if ($Edition -eq 'Company') {
     Move-Item -LiteralPath $temporary -Destination (Join-Path $destination 'najnowsza.json') -Force
     [IO.File]::WriteAllText((Join-Path $root ".build/company-published-$($build.Version).json"), '{"published":true}', (New-Object Text.UTF8Encoding($false)))
     Write-Output "Published Company $($build.Version)."
+    & (Join-Path $PSScriptRoot 'Verify-Published.ps1') -Edition Company
 } else {
     if (-not (Test-Path -LiteralPath (Join-Path $root ".build/company-published-$($build.Version).json"))) {
         throw 'Publish and accept the Company edition first.'
@@ -57,7 +63,8 @@ if ($Edition -eq 'Company') {
     if ($private -ne 'false') {
         throw 'The release repository is private. Arrange a public source snapshot and repository first; do not expose development history automatically.'
     }
-    & gh release create "v$($build.Version)" $installer "$installer.podpis" "$installer.sha256" --repo $repo --title "radioMAT $($build.Version)" --notes-file (Join-Path $root 'RELEASE-NOTES.md')
+    & gh release create "v$($build.Version)" $installer "$installer.podpis" "$installer.sha256" --repo $repo --title "radioMAT $($build.Version)" --notes-file $releaseNotes
     if ($LASTEXITCODE -ne 0) { throw 'Public release creation failed.' }
     Write-Output "Published Public $($build.Version)."
+    & (Join-Path $PSScriptRoot 'Verify-Published.ps1') -Edition Public
 }

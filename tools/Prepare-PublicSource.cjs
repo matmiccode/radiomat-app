@@ -5,7 +5,8 @@ const root = path.resolve(__dirname, '..');
 const target = path.join(root, '.build', 'public-source');
 // Explicit allowlist: configuration, keys, build output and working notes stay local.
 const names = ['Assets', 'Branding', 'Data', 'docs', 'installer', 'tools', '.gitattributes', '.gitignore',
-  'Radiomat.csproj', 'NuGet.Config', 'README.md', 'LICENSE', 'RELEASE-NOTES.md', 'SPEC.md'];
+  'Radiomat.csproj', 'NuGet.Config', 'README.md', 'LICENSE', 'RELEASE-NOTES.Public.md', 'SPEC.md'];
+// RELEASE-NOTES.Company.md stays private: the public snapshot carries only the public description.
 names.push(...fs.readdirSync(root).filter(n => /\.(cs|xaml)$/.test(n)));
 if (!target.startsWith(root + path.sep) || fs.lstatSync(root).isSymbolicLink()) throw Error('Invalid workspace.');
 if (fs.existsSync(target)) {

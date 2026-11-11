@@ -110,6 +110,7 @@ public partial class RadioWindow : Window
     {
         if (!_ready) return;
         _settings.Volume = e.NewValue / 100.0;
+        if (_tray.ContextMenuStrip is TrayVolumeMenu menu) menu.SetVolume(e.NewValue);
         if (_audio != null) _audio.Volume = (float)_settings.Volume; SaveSettings();
     }
     private void Play()
@@ -121,6 +122,7 @@ public partial class RadioWindow : Window
         SetTrackMessage("CheckingTitle");
         SetStatus("Connecting", "#FFF2D3", "#8C5A08", "PreparingAudio");
         PlayButton.Content = Strings.T("Stop");
+        UpdateTrayPlayback();
         UpdateShortcuts();
         audio.TrackChanged += title => Dispatcher.BeginInvoke(() =>
         {
@@ -138,7 +140,12 @@ public partial class RadioWindow : Window
         });
         _ = audio.StartAsync(_current.Url);
     }
-    private void Stop() { _retry.Stop(); _audio?.Dispose(); _audio = null; SetTrackMessage("PlaybackStopped"); SetStatus("Stopped", "#E9EDF3", "#65728B"); PlayButton.Content = Strings.T("Play"); }
+    private void Stop()
+    {
+        _retry.Stop(); _audio?.Dispose(); _audio = null;
+        SetTrackMessage("PlaybackStopped"); SetStatus("Stopped", "#E9EDF3", "#65728B");
+        PlayButton.Content = Strings.T("Play"); UpdateTrayPlayback();
+    }
     private void Exit() { _exiting = true; _updates.Dispose(); Stop(); _notificationTimer.Stop(); _tray.ContextMenuStrip?.Dispose(); _tray.Dispose(); _trayIcon.Dispose(); Application.Current.Shutdown(); }
     private static Settings LoadSettings()
     {

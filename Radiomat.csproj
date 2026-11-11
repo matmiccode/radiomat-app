@@ -18,7 +18,7 @@
     <ApplicationIcon>Assets\radioMAT.ico</ApplicationIcon>
     <Product>radioMAT</Product>
     <Title>radioMAT</Title>
-    <Version>0.3.0</Version>
+    <Version>0.3.2</Version>
     <SatelliteResourceLanguages>pl</SatelliteResourceLanguages>
   </PropertyGroup>
   <ItemGroup>

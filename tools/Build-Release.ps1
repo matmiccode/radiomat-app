@@ -19,6 +19,10 @@ if (-not $DryRun -and -not $PublishOnly -and (-not $SigningKey -or -not (Test-Pa
 }
 if (-not (Test-Path -LiteralPath $BrandChecker -PathType Leaf)) { throw 'Required package identity checker not found. Pass -BrandChecker.' }
 $node = (Get-Command node -ErrorAction Stop).Source
+# Each edition has its own "Co nowego"; stop before compiling if it mentions the other edition.
+$releaseNotes = Join-Path $root "RELEASE-NOTES.$Edition.md"
+& $node (Join-Path $PSScriptRoot 'Check-ReleaseNotes.cjs') $Edition $releaseNotes
+if ($LASTEXITCODE -ne 0) { throw 'Release notes check failed. No build was started.' }
 function Assert-PackageIdentity([string[]]$Paths) {
     $checkerArgs = @($BrandChecker)
     if ($Edition -eq 'Public') { $checkerArgs += '--publiczne' }
@@ -91,7 +95,7 @@ try {
     & $Compiler '/Q' $build.InstallerScript
     if ($LASTEXITCODE -ne 0) { throw 'Installer compilation failed.' }
     $installer = Join-Path $build.Output "radioMAT-Setup-$version-x64.exe"
-    & $node (Join-Path $PSScriptRoot 'Sign-Release.cjs') $installer $SigningKey $build.Config (Join-Path $root 'RELEASE-NOTES.md')
+    & $node (Join-Path $PSScriptRoot 'Sign-Release.cjs') $installer $SigningKey $build.Config $releaseNotes
     if ($LASTEXITCODE -ne 0) { throw 'Signing failed. Installer is not ready for publication.' }
     Write-Output "Signed update package ready (no publication): $installer"
 } finally {
